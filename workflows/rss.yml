@@ -1,37 +1,21 @@
 on:
-  # Déclencheur pour le flux RSS
   rss:
     url: https://hnrss.org/newest?points=300&count=3
-
 jobs:
-  # Job pour sauvegarder les nouveaux articles dans un fichier
-  save-to-file:
-    name: Save New Articles to File
+  print:
+    name: Print
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
-
-      - name: Install dependencies
-        run: npm install axios
-
-      - name: Save RSS data to file
+      - name: Print Outputs
         env:
-          title: ${{ on.rss.outputs.title }}  # Titre de l'article
-          contentSnippet: ${{ on.rss.outputs.contentSnippet }}  # Résumé du contenu
-          link: ${{ on.rss.outputs.link }}  # Lien vers l'article
+          title: ${{on.rss.outputs.title}}
+          contentSnippet: ${{on.rss.outputs.contentSnippet}}
+          link: ${{on.rss.outputs.link}}
         run: |
-          echo "Title: $title" >> rss-results.txt
-          echo "Content: $contentSnippet" >> rss-results.txt
-          echo "Link: $link" >> rss-results.txt
+          echo "title: $title" >> rss-results.txt
+          echo "contentSnippet: $contentSnippet" >> rss-results.txt
+          echo "link: $link" >> rss-results.txt
 
-      - name: Print saved data
-        run: cat rss-results.txt  # Affiche le contenu sauvegardé dans le fichier
 
 
 
