@@ -12,8 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Get joke
-        uses: actionsflow/axios@v1
         id: get_joke
+        uses: actionsflow/axios@v1
         with:
           url: '${{ on.http.outputs.data.joke }}'
       - name: Send POST request to Slack webhook
@@ -23,4 +23,4 @@ jobs:
         with:
           args: |
             New joke:
-            ${{ steps.get_joke.outputs.data.joke }}
+            ${{ on.http.outputs.data.joke }}
