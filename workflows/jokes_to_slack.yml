@@ -1,0 +1,24 @@
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+
+jobs:
+  get_joke:
+    name: Get Joke
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Joke from API
+        uses: actionsflow/axios-trigger@v2
+        with:
+          url: "https://v2.jokeapi.dev/joke/Any?type=single"
+        id: joke
+
+      - name: Send Joke to Webhook
+        uses: actionsflow/axios-action@v1
+        with:
+          url: "https://hooks.slack.com/services/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"
+          method: "post"
+          data: |
+            {
+              "text": "${{ steps.joke.outputs.data.joke }}"
+            }
