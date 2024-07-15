@@ -7,13 +7,20 @@ on:
     cron: "*/10 * * * *"
 
 jobs:
-  send_joke:
-    name: Send joke to webhook
+  send_joke_to_slack:
+    name: Send joke to Slack
     runs-on: ubuntu-latest
     steps:
-      - name: Send POST request to webhook
+      - name: Get joke
         uses: actionsflow/axios@v1
+        id: get_joke
         with:
-          url: 'https://hooks.slack.com/services/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'
-          method: POST
-          body: '{"text": "${{ on.http.outputs.data }}"}'
+          url: '${{ on.http.outputs.data.joke }}'
+      - name: Send POST request to Slack webhook
+        env:
+          SLACK_WEBHOOK: 'https://hooks.slack.com/services/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'
+        uses: Ilshidur/action-slack@2.1.0
+        with:
+          args: |
+            New joke:
+            ${{ steps.get_joke.outputs.data.joke }}
