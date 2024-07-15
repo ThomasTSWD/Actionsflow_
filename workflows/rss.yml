@@ -1,6 +1,6 @@
 on:
   rss:
-    url: https://hnrss.org/newest?points=700&count=24
+    url: https://hnrss.org/newest?points=700&count=26
 jobs:
   write_to_file:
     name: Write to File
@@ -8,6 +8,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       - name: Write Outputs to File
         env:
@@ -15,19 +17,22 @@ jobs:
           contentSnippet: ${{on.rss.outputs.contentSnippet}}
           link: ${{on.rss.outputs.link}}
         run: |
-          echo "Title: $title" >> rss-results.txt
-          echo "Content Snippet: $contentSnippet" >> rss-results.txt
-          echo "Link: $link" >> rss-results.txt
+          echo "Title: $title" >> temp_output.txt
+          echo "Content Snippet: $contentSnippet" >> temp_output.txt
+          echo "Link: $link" >> temp_output.txt
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git fetch origin main
+          git checkout main
+          git pull origin main
+          cat temp_output.txt >> rss-results.txt
+          rm temp_output.txt
           git add rss-results.txt
-          git commit -m "Update output.txt with new RSS data"
-          git pull --rebase origin main
-          git push
-
+          git commit -m "Update rss-results.txt with new RSS data"
+          git push origin main
 
 
 
