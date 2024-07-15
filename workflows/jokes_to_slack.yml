@@ -1,24 +1,18 @@
 on:
-  schedule:
-    - cron: "*/10 * * * *"
+  rss:
+    url: https://v2.jokeapi.dev/joke/Any?type=single&amount=1&format=xml
+    config:
+      outputsMode: single
+    cron: "*/10 * * * *"
 
 jobs:
-  get_joke:
-    name: Get Joke
+  request:
+    name: Send joke to webhook
     runs-on: ubuntu-latest
     steps:
-      - name: Get Joke from API
-        uses: actionsflow/axios-trigger@v2
+      - name: Send POST request to webhook
+        uses: actionsflow/axios@v1
         with:
-          url: "https://v2.jokeapi.dev/joke/Any?type=single"
-        id: joke
-
-      - name: Send Joke to Webhook
-        uses: actionsflow/axios-action@v1
-        with:
-          url: "https://hooks.slack.com/services/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"
-          method: "post"
-          data: |
-            {
-              "text": "${{ steps.joke.outputs.data.joke }}"
-            }
+          url: 'https://hooks.slack.com/services/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'
+          method: POST
+          body: '{"text": "${{ on.rss.outputs.item.description }}"}'
