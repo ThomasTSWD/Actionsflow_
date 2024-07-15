@@ -2,18 +2,21 @@ on:
   http:
     url: https://v2.jokeapi.dev/joke/Any?type=single
 jobs:
-  slack:
-    name: Send a message to Slack
+  send_joke_to_slack:
+    name: Send joke to Slack
     runs-on: ubuntu-latest
     steps:
-      - name: Slack notification
+      - name: Get joke
+        id: get_joke
+        uses: actionsflow/axios@v1
+        with:
+          url: '${{ on.http.outputs.data.joke }}'
+      - name: Send POST request to Slack
         env:
           SLACK_WEBHOOK: 'https://hooks.slack.com/services/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'
         uses: Ilshidur/action-slack@2.1.0
         with:
           args: |
-            New commens with hacker news
-
-            > ${{ on.rss.outputs.contentSnippet }} 
-
-            > <${{ on.rss.outputs.link }}|Click here> for details.
+            Here's a new joke for you:
+            
+            > ${{ steps.get_joke.outputs.data.joke }}
