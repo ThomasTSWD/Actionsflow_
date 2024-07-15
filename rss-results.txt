@@ -5,3 +5,9 @@ Comments URL: https://news.ycombinator.com/item?id=40928893
 Points: 912
 # Comments: 673
 Link: https://zed.dev/linux
+Title: Microfeatures I love in blogs and personal websites
+Content Snippet: Article URL: https://danilafe.com/blog/blog_microfeatures/
+Comments URL: https://news.ycombinator.com/item?id=40774277
+Points: 983
+# Comments: 421
+Link: https://danilafe.com/blog/blog_microfeatures/
