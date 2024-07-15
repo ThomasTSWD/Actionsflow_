@@ -1,6 +1,6 @@
 on:
   rss:
-    url: https://hnrss.org/newest?points=600&count=6
+    url: https://hnrss.org/newest?points=700&count=22
 jobs:
   write_to_file:
     name: Write to File
