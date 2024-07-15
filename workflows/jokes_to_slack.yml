@@ -1,6 +1,7 @@
 on:
-  http:
-    url: https://v2.jokeapi.dev/joke/Any?type=single
+  schedule:
+    - cron: "*/10 * * * *"
+
 jobs:
   send_joke_to_slack:
     name: Send joke to Slack
@@ -10,7 +11,7 @@ jobs:
         id: get_joke
         uses: actionsflow/axios@v1
         with:
-          url: '${{ on.http.outputs.data.joke }}'
+          url: 'https://v2.jokeapi.dev/joke/Any?type=single'
       - name: Send POST request to Slack
         env:
           SLACK_WEBHOOK: 'https://hooks.slack.com/services/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'
@@ -19,4 +20,4 @@ jobs:
           args: |
             Here's a new joke for you:
             
-            > ${{ steps.get_joke.outputs.data.joke }}
+            > ${{ fromJson(steps.get_joke.outputs.data).joke }}
