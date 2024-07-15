@@ -16,4 +16,4 @@ jobs:
         with:
           url: 'https://hooks.slack.com/services/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'
           method: POST
-          body: '{"text": "${{ steps.http.outputs.data }}"}'
+          body: '{"text": "${{ on.http.outputs.data }}"}'
