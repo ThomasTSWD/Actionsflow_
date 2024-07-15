@@ -1,26 +1,19 @@
 on:
-  http:
-    url: https://v2.jokeapi.dev/joke/Any?type=single
-    method: GET
-    config:
-      force: true
-    cron: "*/10 * * * *"
-
+  rss:
+    url: https://hnrss.org/item?id=24648960
 jobs:
-  send_joke_to_slack:
-    name: Send joke to Slack
+  slack:
+    name: Send a message to Slack
     runs-on: ubuntu-latest
     steps:
-      - name: Get joke
-        id: get_joke
-        uses: actionsflow/axios@v1
-        with:
-          url: '${{ on.http.outputs.data.joke }}'
-      - name: Send POST request to Slack webhook
+      - name: Slack notification
         env:
           SLACK_WEBHOOK: 'https://hooks.slack.com/services/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'
         uses: Ilshidur/action-slack@2.1.0
         with:
           args: |
-            New joke:
-            ${{ on.http.outputs.data.joke }}
+            New commens with hacker news
+
+            > ${{ on.rss.outputs.contentSnippet }} 
+
+            > <${{ on.rss.outputs.link }}|Click here> for details.
