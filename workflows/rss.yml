@@ -1,7 +1,7 @@
 on:
   # Déclencheur pour le flux RSS
   rss:
-    url: https://hnrss.org/newest?points=100&count=4
+    url: https://hnrss.org/newest?points=500&count=4
 
 jobs:
   # Job pour sauvegarder les nouveaux articles dans un fichier
