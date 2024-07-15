@@ -25,8 +25,8 @@ jobs:
           git config --local user.name "GitHub Action"
           git add rss-results.txt
           git commit -m "Update output.txt with new RSS data"
+          git pull --rebase origin main
           git push
-
 
 
 
