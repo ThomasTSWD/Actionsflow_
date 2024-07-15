@@ -1,5 +1,5 @@
 on:
-  rss:
+  http:
     url: https://v2.jokeapi.dev/joke/Any?type=single
 jobs:
   slack:
