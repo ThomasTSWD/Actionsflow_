@@ -1,6 +1,6 @@
 on:
   rss:
-    url: https://hnrss.org/item?id=24648960
+    url: https://v2.jokeapi.dev/joke/Any?type=single
 jobs:
   slack:
     name: Send a message to Slack
