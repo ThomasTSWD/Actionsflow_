@@ -35,3 +35,9 @@ Comments URL: https://news.ycombinator.com/item?id=40962767
 Points: 338
 # Comments: 107
 Link: https://github.com/khaledh/fusion
+Title: For advertising, Firefox now collects user data by default
+Content Snippet: Article URL: https://www.heise.de/en/news/For-advertising-Firefox-now-collects-user-data-by-default-9801345.html
+Comments URL: https://news.ycombinator.com/item?id=40974112
+Points: 486
+# Comments: 401
+Link: https://www.heise.de/en/news/For-advertising-Firefox-now-collects-user-data-by-default-9801345.html
