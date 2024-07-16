@@ -41,3 +41,9 @@ Comments URL: https://news.ycombinator.com/item?id=40974112
 Points: 486
 # Comments: 401
 Link: https://www.heise.de/en/news/For-advertising-Firefox-now-collects-user-data-by-default-9801345.html
+Title: Exo: Run your own AI cluster at home with everyday devices
+Content Snippet: Article URL: https://github.com/exo-explore/exo
+Comments URL: https://news.ycombinator.com/item?id=40973339
+Points: 300
+# Comments: 101
+Link: https://github.com/exo-explore/exo
