@@ -47,3 +47,9 @@ Comments URL: https://news.ycombinator.com/item?id=40973339
 Points: 300
 # Comments: 101
 Link: https://github.com/exo-explore/exo
+Title: I am starting an AI+Education company
+Content Snippet: Article URL: https://twitter.com/karpathy/status/1813263734707790301
+Comments URL: https://news.ycombinator.com/item?id=40978731
+Points: 311
+# Comments: 196
+Link: https://twitter.com/karpathy/status/1813263734707790301
