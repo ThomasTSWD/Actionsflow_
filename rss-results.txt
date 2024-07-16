@@ -23,3 +23,9 @@ Comments URL: https://news.ycombinator.com/item?id=40970560
 Points: 891
 # Comments: 260
 Link: https://docs.scale-lang.com/
+Title: Google's Gemini AI caught scanning Google Drive PDF files without permission
+Content Snippet: Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled
+Comments URL: https://news.ycombinator.com/item?id=40965892
+Points: 314
+# Comments: 142
+Link: https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled
