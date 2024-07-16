@@ -29,3 +29,9 @@ Comments URL: https://news.ycombinator.com/item?id=40965892
 Points: 314
 # Comments: 142
 Link: https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled
+Title: Fusion – A hobby OS implemented in Nim
+Content Snippet: Article URL: https://github.com/khaledh/fusion
+Comments URL: https://news.ycombinator.com/item?id=40962767
+Points: 338
+# Comments: 107
+Link: https://github.com/khaledh/fusion
