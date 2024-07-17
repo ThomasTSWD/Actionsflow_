@@ -71,3 +71,9 @@ Comments URL: https://news.ycombinator.com/item?id=40982118
 Points: 302
 # Comments: 52
 Link: https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html
+Title: Stop Microsoft users sending 'reactions' to email by adding a postfix header
+Content Snippet: Article URL: https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/
+Comments URL: https://news.ycombinator.com/item?id=40978073
+Points: 306
+# Comments: 253
+Link: https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/
