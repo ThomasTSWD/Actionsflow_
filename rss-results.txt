@@ -59,3 +59,9 @@ Comments URL: https://news.ycombinator.com/item?id=40977103
 Points: 301
 # Comments: 74
 Link: https://mistral.ai/news/codestral-mamba/
+Title: Show HN: Scraping 1k+ news sources and aggregating all Startup information
+Content Snippet: Article URL: https://old.reddit.com/r/DataScienceProjects/comments/1e5c2m6/check_out_my_data_science_project_live_stream_of/
+Comments URL: https://news.ycombinator.com/item?id=40983395
+Points: 501
+# Comments: 0
+Link: https://old.reddit.com/r/DataScienceProjects/comments/1e5c2m6/check_out_my_data_science_project_live_stream_of/
