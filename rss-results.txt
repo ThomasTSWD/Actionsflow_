@@ -89,3 +89,9 @@ Comments URL: https://news.ycombinator.com/item?id=40987730
 Points: 302
 # Comments: 76
 Link: https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html
+Title: TinyPod – Apple Watch case with scroll wheel
+Content Snippet: Article URL: https://thetinypod.com/
+Comments URL: https://news.ycombinator.com/item?id=40987402
+Points: 306
+# Comments: 135
+Link: https://thetinypod.com/
