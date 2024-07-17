@@ -95,3 +95,9 @@ Comments URL: https://news.ycombinator.com/item?id=40987402
 Points: 306
 # Comments: 135
 Link: https://thetinypod.com/
+Title: NVIDIA Transitions Fully Towards Open-Source Linux GPU Kernel Modules
+Content Snippet: Article URL: https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/
+Comments URL: https://news.ycombinator.com/item?id=40988954
+Points: 309
+# Comments: 96
+Link: https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/
