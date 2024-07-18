@@ -107,3 +107,9 @@ Comments URL: https://news.ycombinator.com/item?id=40992982
 Points: 309
 # Comments: 183
 Link: https://naya.lol
+Title: The unexpected poetry of PhD acknowledgements
+Content Snippet: Article URL: https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements
+Comments URL: https://news.ycombinator.com/item?id=40988395
+Points: 300
+# Comments: 69
+Link: https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements
