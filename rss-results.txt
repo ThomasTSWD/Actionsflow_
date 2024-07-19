@@ -141,3 +141,9 @@ Comments URL: https://news.ycombinator.com/item?id=40998158
 Points: 302
 # Comments: 73
 Link: https://github.com/quackduck/devzat
+Title: Crowdstrike Outage Causing Widespread Issues
+Content Snippet: Article URL: https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t
+Comments URL: https://news.ycombinator.com/item?id=41002677
+Points: 372
+# Comments: 183
+Link: https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t
