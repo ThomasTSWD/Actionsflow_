@@ -159,3 +159,9 @@ Comments URL: https://news.ycombinator.com/item?id=41001959
 Points: 329
 # Comments: 92
 Link: https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html
+Title: Foliate: Read e-books in style, navigate with ease
+Content Snippet: Article URL: https://johnfactotum.github.io/foliate/
+Comments URL: https://news.ycombinator.com/item?id=41002273
+Points: 307
+# Comments: 66
+Link: https://johnfactotum.github.io/foliate/
