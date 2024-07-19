@@ -153,3 +153,9 @@ Comments URL: https://news.ycombinator.com/item?id=41003623
 Points: 599
 # Comments: 0
 Link: https://old.reddit.com/r/SaaS_Email_Marketing/comments/1dzwabm/i_built_a_tool_which_tracks_live_all_vc_funded/
+Title: Multiple airlines disrupted due to Microsoft Azure outage
+Content Snippet: Article URL: https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html
+Comments URL: https://news.ycombinator.com/item?id=41001959
+Points: 329
+# Comments: 92
+Link: https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html
