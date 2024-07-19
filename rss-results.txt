@@ -119,3 +119,13 @@ Comments URL: https://news.ycombinator.com/item?id=40996058
 Points: 304
 # Comments: 126
 Link: https://mistral.ai/news/mistral-nemo/
+Title: Windows Bluescreen and Boot Loops (update: caused by a Crowdstrike update)
+Content Snippet: My workplace has a number of people reporting Windows blue-screening and going into a boot loop. The IT Department have a number of servers recently gone offline and have said there's a chance that the two issues are related, and potentially due to a Crowd Strike application update.
+My laptop blue-screened and rebooted, but is working fine after the reboot.
+A local radio station has also said they've got the same issues with their laptops and their phone system is down as a result.
+Not seeing anything on news sites yet. Anyone else seeing similar?
+Above is all based in Australia.
+Comments URL: https://news.ycombinator.com/item?id=41002195
+Points: 389
+# Comments: 129
+Link: https://news.ycombinator.com/item?id=41002195
