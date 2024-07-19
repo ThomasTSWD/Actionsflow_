@@ -147,3 +147,9 @@ Comments URL: https://news.ycombinator.com/item?id=41002677
 Points: 372
 # Comments: 183
 Link: https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t
+Title: Show HN: Aggregator of All VC Funded Startups
+Content Snippet: Article URL: https://old.reddit.com/r/SaaS_Email_Marketing/comments/1dzwabm/i_built_a_tool_which_tracks_live_all_vc_funded/
+Comments URL: https://news.ycombinator.com/item?id=41003623
+Points: 599
+# Comments: 0
+Link: https://old.reddit.com/r/SaaS_Email_Marketing/comments/1dzwabm/i_built_a_tool_which_tracks_live_all_vc_funded/
