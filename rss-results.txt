@@ -129,3 +129,9 @@ Comments URL: https://news.ycombinator.com/item?id=41002195
 Points: 389
 # Comments: 129
 Link: https://news.ycombinator.com/item?id=41002195
+Title: USPS shared customer postal addresses with Meta, LinkedIn and Snap
+Content Snippet: Article URL: https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/
+Comments URL: https://news.ycombinator.com/item?id=40998647
+Points: 302
+# Comments: 152
+Link: https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/
