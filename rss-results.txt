@@ -165,3 +165,9 @@ Comments URL: https://news.ycombinator.com/item?id=41002273
 Points: 307
 # Comments: 66
 Link: https://johnfactotum.github.io/foliate/
+Title: FCC votes unanimously to dramatically limit prison telecom charges
+Content Snippet: Article URL: https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms
+Comments URL: https://news.ycombinator.com/item?id=41005181
+Points: 313
+# Comments: 79
+Link: https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms
