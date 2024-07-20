@@ -209,3 +209,9 @@ Comments URL: https://news.ycombinator.com/item?id=41016768
 Points: 332
 # Comments: 111
 Link: https://www.kibty.town/blog/a16z/
+Title: Typst: An easy to learn alternative for LaTex
+Content Snippet: Article URL: https://github.com/typst/typst
+Comments URL: https://news.ycombinator.com/item?id=41014941
+Points: 304
+# Comments: 72
+Link: https://github.com/typst/typst
