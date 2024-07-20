@@ -191,3 +191,9 @@ Comments URL: https://news.ycombinator.com/item?id=41007403
 Points: 303
 # Comments: 77
 Link: https://news.ycombinator.com/item?id=41007403
+Title: I mapped almost every USA traffic death in the 21st century
+Content Snippet: Article URL: https://roadway.report
+Comments URL: https://news.ycombinator.com/item?id=41012443
+Points: 305
+# Comments: 132
+Link: https://roadway.report
