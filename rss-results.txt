@@ -203,3 +203,9 @@ Comments URL: https://news.ycombinator.com/item?id=41013004
 Points: 305
 # Comments: 85
 Link: https://garagehq.deuxfleurs.fr/
+Title: How to pwn a billion dollar VC firm using inspect element
+Content Snippet: Article URL: https://www.kibty.town/blog/a16z/
+Comments URL: https://news.ycombinator.com/item?id=41016768
+Points: 332
+# Comments: 111
+Link: https://www.kibty.town/blog/a16z/
