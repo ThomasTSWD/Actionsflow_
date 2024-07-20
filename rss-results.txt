@@ -197,3 +197,9 @@ Comments URL: https://news.ycombinator.com/item?id=41012443
 Points: 305
 # Comments: 132
 Link: https://roadway.report
+Title: Garage: Open-Source Distributed Object Storage
+Content Snippet: Article URL: https://garagehq.deuxfleurs.fr/
+Comments URL: https://news.ycombinator.com/item?id=41013004
+Points: 305
+# Comments: 85
+Link: https://garagehq.deuxfleurs.fr/
