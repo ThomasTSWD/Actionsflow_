@@ -177,3 +177,17 @@ Comments URL: https://news.ycombinator.com/item?id=41007396
 Points: 301
 # Comments: 109
 Link: https://www.washingtonpost.com/world/2024/07/19/bangladesh-demonstrations-police-hasina/
+Title: Show HN: Sendune – open-source HTML email designer
+Content Snippet: Demo: https://designer.sendune.com/
+Code: https://github.com/SendWithSES/Drag-and-Drop-Email-Designer
+HTML for email is probably the hardest code to write. Even a teeny-tiny deviation from the rules will break the email in untold combination of os/desktop/mobile clients.
+It's mid 2024. Almost 50 years since email was invented and 35 years since HTML was born. A 'basic-open-source-HTML-email-designer' must be a solved problem, right? We thought so too.
+Sadly, that's not the case.
+There are a few decent open source email designers but they carry dependencies that make them cumbersome to embed within your app. That's why we decided to open source our HTML Email Designer.
+The SENDUNE email designer focuses on simplicity and ease of use. It is light-weight. It does pure HTML - no intermediate code wranglers like mjml. There is no lock-in of any kind. Save HTML output as a template and use with ANY email service provider.
+Feel free to fork the repository, make improvements, and submit pull requests.
+AMA: hello at sendune dot com
+Comments URL: https://news.ycombinator.com/item?id=41007403
+Points: 303
+# Comments: 77
+Link: https://news.ycombinator.com/item?id=41007403
