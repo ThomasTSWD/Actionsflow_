@@ -251,3 +251,9 @@ Comments URL: https://news.ycombinator.com/item?id=41024664
 Points: 305
 # Comments: 44
 Link: https://dgerrells.com/blog/how-not-to-use-box-shadows
+Title: Joe Biden stands down as Democratic candidate
+Content Snippet: Article URL: https://twitter.com/JoeBiden/status/1815087772216303933
+Comments URL: https://news.ycombinator.com/item?id=41026741
+Points: 311
+# Comments: 273
+Link: https://twitter.com/JoeBiden/status/1815087772216303933
