@@ -215,3 +215,9 @@ Comments URL: https://news.ycombinator.com/item?id=41014941
 Points: 304
 # Comments: 72
 Link: https://github.com/typst/typst
+Title: 10% of Cubans left Cuba between 2022 and 2023
+Content Snippet: Article URL: https://www.miamiherald.com/news/nation-world/world/americas/cuba/article290249799.html
+Comments URL: https://news.ycombinator.com/item?id=41016441
+Points: 300
+# Comments: 573
+Link: https://www.miamiherald.com/news/nation-world/world/americas/cuba/article290249799.html
