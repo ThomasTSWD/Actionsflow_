@@ -245,3 +245,9 @@ Comments URL: https://news.ycombinator.com/item?id=41022653
 Points: 302
 # Comments: 112
 Link: https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral
+Title: So you think you know box shadows?
+Content Snippet: Article URL: https://dgerrells.com/blog/how-not-to-use-box-shadows
+Comments URL: https://news.ycombinator.com/item?id=41024664
+Points: 305
+# Comments: 44
+Link: https://dgerrells.com/blog/how-not-to-use-box-shadows
