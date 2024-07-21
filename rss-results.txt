@@ -233,3 +233,9 @@ Comments URL: https://news.ycombinator.com/item?id=41018135
 Points: 301
 # Comments: 50
 Link: https://syscalls.mebeim.net/?table=x86/64/x64/latest
+Title: Empathy for the user having sex with your software
+Content Snippet: Article URL: https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/
+Comments URL: https://news.ycombinator.com/item?id=41021029
+Points: 303
+# Comments: 63
+Link: https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/
