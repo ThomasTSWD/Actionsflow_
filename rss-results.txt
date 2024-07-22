@@ -269,3 +269,9 @@ Comments URL: https://news.ycombinator.com/item?id=41031998
 Points: 305
 # Comments: 140
 Link: https://forum.jellyfin.org/t-we-re-good-seriously
+Title: Pin
+Content Snippet: Article URL: https://without.boats/blog/pin/
+Comments URL: https://news.ycombinator.com/item?id=41029287
+Points: 301
+# Comments: 55
+Link: https://without.boats/blog/pin/
