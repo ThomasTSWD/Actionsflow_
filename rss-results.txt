@@ -257,3 +257,9 @@ Comments URL: https://news.ycombinator.com/item?id=41026741
 Points: 311
 # Comments: 273
 Link: https://twitter.com/JoeBiden/status/1815087772216303933
+Title: rr – record and replay debugger for C/C++
+Content Snippet: Article URL: https://rr-project.org/
+Comments URL: https://news.ycombinator.com/item?id=41023547
+Points: 318
+# Comments: 110
+Link: https://rr-project.org/
