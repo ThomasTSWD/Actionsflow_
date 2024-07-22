@@ -293,3 +293,9 @@ Comments URL: https://news.ycombinator.com/item?id=41033579
 Points: 305
 # Comments: 191
 Link: https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html
+Title: Kawaii – A Keychain-Sized Nintendo Wii
+Content Snippet: Article URL: https://bitbuilt.net/forums/index.php?threads/kawaii.6474/
+Comments URL: https://news.ycombinator.com/item?id=41038552
+Points: 316
+# Comments: 103
+Link: https://bitbuilt.net/forums/index.php?threads/kawaii.6474/
