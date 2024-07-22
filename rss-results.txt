@@ -275,3 +275,9 @@ Comments URL: https://news.ycombinator.com/item?id=41029287
 Points: 301
 # Comments: 55
 Link: https://without.boats/blog/pin/
+Title: Jiff: A brand new Datetime library for Rust, from the author of ripgrep
+Content Snippet: Article URL: https://github.com/BurntSushi/jiff
+Comments URL: https://news.ycombinator.com/item?id=41031037
+Points: 303
+# Comments: 117
+Link: https://github.com/BurntSushi/jiff
