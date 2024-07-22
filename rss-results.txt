@@ -263,3 +263,9 @@ Comments URL: https://news.ycombinator.com/item?id=41023547
 Points: 318
 # Comments: 110
 Link: https://rr-project.org/
+Title: Jellyfin: We're Good, Seriously
+Content Snippet: Article URL: https://forum.jellyfin.org/t-we-re-good-seriously
+Comments URL: https://news.ycombinator.com/item?id=41031998
+Points: 305
+# Comments: 140
+Link: https://forum.jellyfin.org/t-we-re-good-seriously
