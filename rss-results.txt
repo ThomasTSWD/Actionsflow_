@@ -281,3 +281,9 @@ Comments URL: https://news.ycombinator.com/item?id=41031037
 Points: 303
 # Comments: 117
 Link: https://github.com/BurntSushi/jiff
+Title: Startups which received funding today (statistics)
+Content Snippet: Article URL: https://old.reddit.com/user/Kooky_Nectarine_6287/
+Comments URL: https://news.ycombinator.com/item?id=41034590
+Points: 409
+# Comments: 2
+Link: https://old.reddit.com/user/Kooky_Nectarine_6287/
