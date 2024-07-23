@@ -335,3 +335,9 @@ Comments URL: https://news.ycombinator.com/item?id=41039708
 Points: 300
 # Comments: 180
 Link: https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792
+Title: Llama 3.1
+Content Snippet: Article URL: https://llama.meta.com/
+Comments URL: https://news.ycombinator.com/item?id=41046540
+Points: 305
+# Comments: 182
+Link: https://llama.meta.com/
