@@ -299,3 +299,9 @@ Comments URL: https://news.ycombinator.com/item?id=41038552
 Points: 316
 # Comments: 103
 Link: https://bitbuilt.net/forums/index.php?threads/kawaii.6474/
+Title: Scientists discover a new hormone that can build strong bones
+Content Snippet: Article URL: https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones
+Comments URL: https://news.ycombinator.com/item?id=41036462
+Points: 303
+# Comments: 110
+Link: https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones
