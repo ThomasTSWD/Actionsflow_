@@ -311,3 +311,9 @@ Comments URL: https://news.ycombinator.com/item?id=41038372
 Points: 306
 # Comments: 107
 Link: https://matthewstrom.com/writing/copying/
+Title: Show HN: VC Funded Startups Aggregator
+Content Snippet: Article URL: https://old.reddit.com/r/SaaS_Email_Marketing/comments/1dzwabm/i_built_a_tool_which_tracks_live_all_vc_funded/
+Comments URL: https://news.ycombinator.com/item?id=41039468
+Points: 331
+# Comments: 2
+Link: https://old.reddit.com/r/SaaS_Email_Marketing/comments/1dzwabm/i_built_a_tool_which_tracks_live_all_vc_funded/
