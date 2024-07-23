@@ -329,3 +329,9 @@ Comments URL: https://news.ycombinator.com/item?id=41046773
 Points: 318
 # Comments: 151
 Link: https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/
+Title: July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs
+Content Snippet: Article URL: https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792
+Comments URL: https://news.ycombinator.com/item?id=41039708
+Points: 300
+# Comments: 180
+Link: https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792
