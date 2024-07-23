@@ -305,3 +305,9 @@ Comments URL: https://news.ycombinator.com/item?id=41036462
 Points: 303
 # Comments: 110
 Link: https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones
+Title: Copying is the way design works
+Content Snippet: Article URL: https://matthewstrom.com/writing/copying/
+Comments URL: https://news.ycombinator.com/item?id=41038372
+Points: 306
+# Comments: 107
+Link: https://matthewstrom.com/writing/copying/
