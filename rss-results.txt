@@ -323,3 +323,9 @@ Comments URL: https://news.ycombinator.com/item?id=41039967
 Points: 301
 # Comments: 138
 Link: https://github.com/linuxmint/timeshift
+Title: Open Source AI Is the Path Forward
+Content Snippet: Article URL: https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/
+Comments URL: https://news.ycombinator.com/item?id=41046773
+Points: 318
+# Comments: 151
+Link: https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/
