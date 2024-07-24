@@ -359,3 +359,9 @@ Comments URL: https://news.ycombinator.com/item?id=41046956
 Points: 301
 # Comments: 115
 Link: https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html
+Title: Large Enough – Mistral AI
+Content Snippet: Article URL: https://mistral.ai/news/mistral-large-2407/
+Comments URL: https://news.ycombinator.com/item?id=41058107
+Points: 300
+# Comments: 211
+Link: https://mistral.ai/news/mistral-large-2407/
