@@ -371,3 +371,9 @@ Comments URL: https://news.ycombinator.com/item?id=41052365
 Points: 309
 # Comments: 208
 Link: https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html
+Title: Google is the only search engine that works on Reddit now, thanks to AI deal
+Content Snippet: Article URL: https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/
+Comments URL: https://news.ycombinator.com/item?id=41057033
+Points: 305
+# Comments: 232
+Link: https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/
