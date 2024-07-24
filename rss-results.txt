@@ -377,3 +377,9 @@ Comments URL: https://news.ycombinator.com/item?id=41057033
 Points: 305
 # Comments: 232
 Link: https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/
+Title: Anyone can access deleted and private repository data on GitHub
+Content Snippet: Article URL: https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github
+Comments URL: https://news.ycombinator.com/item?id=41060102
+Points: 369
+# Comments: 63
+Link: https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github
