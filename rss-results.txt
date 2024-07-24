@@ -365,3 +365,9 @@ Comments URL: https://news.ycombinator.com/item?id=41058107
 Points: 300
 # Comments: 211
 Link: https://mistral.ai/news/mistral-large-2407/
+Title: Taking my diabetes treatment into my own hands
+Content Snippet: Article URL: https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html
+Comments URL: https://news.ycombinator.com/item?id=41052365
+Points: 309
+# Comments: 208
+Link: https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html
