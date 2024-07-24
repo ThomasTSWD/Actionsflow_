@@ -341,3 +341,9 @@ Comments URL: https://news.ycombinator.com/item?id=41046540
 Points: 305
 # Comments: 182
 Link: https://llama.meta.com/
+Title: Hydrothermal explosion at Yellowstone National Park
+Content Snippet: Article URL: https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html
+Comments URL: https://news.ycombinator.com/item?id=41050055
+Points: 306
+# Comments: 153
+Link: https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html
