@@ -383,3 +383,9 @@ Comments URL: https://news.ycombinator.com/item?id=41060102
 Points: 369
 # Comments: 63
 Link: https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github
+Title: Node.js adds experimental support for TypeScript
+Content Snippet: Article URL: https://github.com/nodejs/node/pull/53725
+Comments URL: https://news.ycombinator.com/item?id=41064351
+Points: 309
+# Comments: 146
+Link: https://github.com/nodejs/node/pull/53725
