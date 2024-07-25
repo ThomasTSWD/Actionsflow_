@@ -401,3 +401,9 @@ Comments URL: https://news.ycombinator.com/item?id=41064645
 Points: 306
 # Comments: 72
 Link: https://jordaneldredge.com/notes/corrupted-skins/
+Title: Apple Maps on the web launches in beta
+Content Snippet: Article URL: https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/
+Comments URL: https://news.ycombinator.com/item?id=41065326
+Points: 302
+# Comments: 360
+Link: https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/
