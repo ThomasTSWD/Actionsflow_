@@ -419,3 +419,9 @@ Comments URL: https://news.ycombinator.com/item?id=41066811
 Points: 301
 # Comments: 244
 Link: https://thehftguy.com/2024/07/25/crowdstrike-will-be-liable-for-damages-in-france-based-on-the-ovh-precedent/
+Title: Reverse Engineering for Everyone
+Content Snippet: Article URL: https://0xinfection.github.io/reversing/
+Comments URL: https://news.ycombinator.com/item?id=41069256
+Points: 304
+# Comments: 27
+Link: https://0xinfection.github.io/reversing/
