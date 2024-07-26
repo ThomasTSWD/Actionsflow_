@@ -431,3 +431,9 @@ Comments URL: https://news.ycombinator.com/item?id=41071639
 Points: 300
 # Comments: 182
 Link: https://chatgpt.com/search
+Title: A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow
+Content Snippet: Article URL: https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution
+Comments URL: https://news.ycombinator.com/item?id=41075766
+Points: 307
+# Comments: 288
+Link: https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution
