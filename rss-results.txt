@@ -437,3 +437,9 @@ Comments URL: https://news.ycombinator.com/item?id=41075766
 Points: 307
 # Comments: 288
 Link: https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution
+Title: Show HN: Wat – Deep inspection of Python objects
+Content Snippet: Article URL: https://github.com/igrek51/wat
+Comments URL: https://news.ycombinator.com/item?id=41070428
+Points: 309
+# Comments: 77
+Link: https://github.com/igrek51/wat
