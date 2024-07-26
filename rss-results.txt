@@ -425,3 +425,9 @@ Comments URL: https://news.ycombinator.com/item?id=41069256
 Points: 304
 # Comments: 27
 Link: https://0xinfection.github.io/reversing/
+Title: OpenAI Announces SearchGPT
+Content Snippet: Article URL: https://chatgpt.com/search
+Comments URL: https://news.ycombinator.com/item?id=41071639
+Points: 300
+# Comments: 182
+Link: https://chatgpt.com/search
