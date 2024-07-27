@@ -455,3 +455,9 @@ Comments URL: https://news.ycombinator.com/item?id=41085376
 Points: 313
 # Comments: 95
 Link: https://sqlite.org/fasterthanfs.html
+Title: Europe is in danger of regulating its tech market out of existence
+Content Snippet: Article URL: https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/
+Comments URL: https://news.ycombinator.com/item?id=41081238
+Points: 302
+# Comments: 606
+Link: https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/
