@@ -461,3 +461,9 @@ Comments URL: https://news.ycombinator.com/item?id=41081238
 Points: 302
 # Comments: 606
 Link: https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/
+Title: The New Internet
+Content Snippet: Article URL: https://tailscale.com/blog/new-internet
+Comments URL: https://news.ycombinator.com/item?id=41080991
+Points: 300
+# Comments: 192
+Link: https://tailscale.com/blog/new-internet
