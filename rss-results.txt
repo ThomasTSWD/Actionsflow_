@@ -443,3 +443,9 @@ Comments URL: https://news.ycombinator.com/item?id=41070428
 Points: 309
 # Comments: 77
 Link: https://github.com/igrek51/wat
+Title: Jacek Karpińśki, the computer genius the communists couldn't stand (2017)
+Content Snippet: Article URL: https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand
+Comments URL: https://news.ycombinator.com/item?id=41072026
+Points: 300
+# Comments: 134
+Link: https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand
