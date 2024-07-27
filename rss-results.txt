@@ -473,3 +473,9 @@ Comments URL: https://news.ycombinator.com/item?id=41088013
 Points: 323
 # Comments: 63
 Link: https://cybernetic.dev/grid
+Title: The Linux Kernel Module Programming Guide
+Content Snippet: Article URL: https://sysprog21.github.io/lkmpg/
+Comments URL: https://news.ycombinator.com/item?id=41083972
+Points: 303
+# Comments: 33
+Link: https://sysprog21.github.io/lkmpg/
