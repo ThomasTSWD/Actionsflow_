@@ -449,3 +449,9 @@ Comments URL: https://news.ycombinator.com/item?id=41072026
 Points: 300
 # Comments: 134
 Link: https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand
+Title: SQLite: 35% Faster Than the Filesystem
+Content Snippet: Article URL: https://sqlite.org/fasterthanfs.html
+Comments URL: https://news.ycombinator.com/item?id=41085376
+Points: 313
+# Comments: 95
+Link: https://sqlite.org/fasterthanfs.html
