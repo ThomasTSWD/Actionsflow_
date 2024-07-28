@@ -491,3 +491,9 @@ Comments URL: https://news.ycombinator.com/item?id=41090304
 Points: 300
 # Comments: 114
 Link: https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/
+Title: Show HN: Semantic Grep – A Word2Vec-powered search tool
+Content Snippet: Much improved new version. Search for words similar to the query. For example, "death" will find "death", "dying", "dead", "killing"... Incredibly useful for exploring large text datasets where exact matches are too restrictive.
+Comments URL: https://news.ycombinator.com/item?id=41088273
+Points: 300
+# Comments: 44
+Link: https://github.com/arunsupe/semantic-grep
