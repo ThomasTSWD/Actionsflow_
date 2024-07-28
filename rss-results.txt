@@ -479,3 +479,9 @@ Comments URL: https://news.ycombinator.com/item?id=41083972
 Points: 303
 # Comments: 33
 Link: https://sysprog21.github.io/lkmpg/
+Title: In the Beginning Was the Command Line (1999)
+Content Snippet: Article URL: https://web.stanford.edu/class/cs81n/command.txt
+Comments URL: https://news.ycombinator.com/item?id=41084795
+Points: 301
+# Comments: 184
+Link: https://web.stanford.edu/class/cs81n/command.txt
