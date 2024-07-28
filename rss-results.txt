@@ -485,3 +485,9 @@ Comments URL: https://news.ycombinator.com/item?id=41084795
 Points: 301
 # Comments: 184
 Link: https://web.stanford.edu/class/cs81n/command.txt
+Title: How did Facebook intercept their competitor's encrypted mobile app traffic?
+Content Snippet: Article URL: https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/
+Comments URL: https://news.ycombinator.com/item?id=41090304
+Points: 300
+# Comments: 114
+Link: https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/
