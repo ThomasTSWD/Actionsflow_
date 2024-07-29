@@ -497,3 +497,9 @@ Comments URL: https://news.ycombinator.com/item?id=41088273
 Points: 300
 # Comments: 44
 Link: https://github.com/arunsupe/semantic-grep
+Title: Microsoft technical breakdown of CrowdStrike incident
+Content Snippet: Article URL: https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/
+Comments URL: https://news.ycombinator.com/item?id=41095530
+Points: 301
+# Comments: 285
+Link: https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/
