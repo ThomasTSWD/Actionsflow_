@@ -509,3 +509,9 @@ Comments URL: https://news.ycombinator.com/item?id=41090658
 Points: 302
 # Comments: 98
 Link: https://github.com/ionworks/how-to-debug-your-battery
+Title: How simultaneous multithreading works under the hood
+Content Snippet: Article URL: https://blog.codingconfessions.com/p/simultaneous-multithreading
+Comments URL: https://news.ycombinator.com/item?id=41093916
+Points: 300
+# Comments: 116
+Link: https://blog.codingconfessions.com/p/simultaneous-multithreading
