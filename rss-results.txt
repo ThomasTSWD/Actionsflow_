@@ -503,3 +503,9 @@ Comments URL: https://news.ycombinator.com/item?id=41095530
 Points: 301
 # Comments: 285
 Link: https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/
+Title: How to debug your battery design
+Content Snippet: A guide to simulating the physics inside a battery to solve the curse of dimensionality when doing battery R&D using open source python tool PyBaMM
+Comments URL: https://news.ycombinator.com/item?id=41090658
+Points: 302
+# Comments: 98
+Link: https://github.com/ionworks/how-to-debug-your-battery
