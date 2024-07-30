@@ -521,3 +521,9 @@ Comments URL: https://news.ycombinator.com/item?id=41104293
 Points: 331
 # Comments: 46
 Link: https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/
+Title: SAM 2: Segment Anything in Images and Videos
+Content Snippet: Article URL: https://github.com/facebookresearch/segment-anything-2
+Comments URL: https://news.ycombinator.com/item?id=41104523
+Points: 304
+# Comments: 53
+Link: https://github.com/facebookresearch/segment-anything-2
