@@ -551,3 +551,9 @@ Comments URL: https://news.ycombinator.com/item?id=41105944
 Points: 300
 # Comments: 357
 Link: https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity
+Title: A eulogy for Dark Sky, a data visualization masterpiece (2023)
+Content Snippet: Article URL: https://nightingaledvs.com/dark-sky-weather-data-viz/
+Comments URL: https://news.ycombinator.com/item?id=41109799
+Points: 302
+# Comments: 174
+Link: https://nightingaledvs.com/dark-sky-weather-data-viz/
