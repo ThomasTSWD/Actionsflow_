@@ -539,3 +539,9 @@ Comments URL: https://news.ycombinator.com/item?id=41104305
 Points: 303
 # Comments: 70
 Link: https://fastht.ml/
+Title: Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?
+Content Snippet: Article URL: https://en.osm.town/@Firefishy/112875549871566269
+Comments URL: https://news.ycombinator.com/item?id=41109926
+Points: 309
+# Comments: 101
+Link: https://en.osm.town/@Firefishy/112875549871566269
