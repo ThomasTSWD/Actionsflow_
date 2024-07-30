@@ -533,3 +533,9 @@ Comments URL: https://news.ycombinator.com/item?id=41103101
 Points: 303
 # Comments: 216
 Link: https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html
+Title: FastHTML – Modern web applications in pure Python
+Content Snippet: Article URL: https://fastht.ml/
+Comments URL: https://news.ycombinator.com/item?id=41104305
+Points: 303
+# Comments: 70
+Link: https://fastht.ml/
