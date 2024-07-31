@@ -569,3 +569,9 @@ Comments URL: https://news.ycombinator.com/item?id=41114839
 Points: 307
 # Comments: 50
 Link: https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/
+Title: Porffor: A from-scratch experimental ahead-of-time JS engine
+Content Snippet: Article URL: https://porffor.dev/
+Comments URL: https://news.ycombinator.com/item?id=41112854
+Points: 302
+# Comments: 63
+Link: https://porffor.dev/
