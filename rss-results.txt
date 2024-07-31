@@ -587,3 +587,9 @@ Comments URL: https://news.ycombinator.com/item?id=41115941
 Points: 301
 # Comments: 81
 Link: https://ogiekako.vercel.app/blog/find_mkdir_tc
+Title: Suspicious data pattern in recent Venezuelan election
+Content Snippet: Article URL: https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/
+Comments URL: https://news.ycombinator.com/item?id=41123155
+Points: 317
+# Comments: 147
+Link: https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/
