@@ -557,3 +557,9 @@ Comments URL: https://news.ycombinator.com/item?id=41109799
 Points: 302
 # Comments: 174
 Link: https://nightingaledvs.com/dark-sky-weather-data-viz/
+Title: Meta to pay Texas $1.4B for using facial recognition without users' permission
+Content Snippet: Article URL: https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/
+Comments URL: https://news.ycombinator.com/item?id=41111145
+Points: 301
+# Comments: 196
+Link: https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/
