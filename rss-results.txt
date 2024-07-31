@@ -563,3 +563,9 @@ Comments URL: https://news.ycombinator.com/item?id=41111145
 Points: 301
 # Comments: 196
 Link: https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/
+Title: Our audit of Homebrew
+Content Snippet: Article URL: https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/
+Comments URL: https://news.ycombinator.com/item?id=41114839
+Points: 307
+# Comments: 50
+Link: https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/
