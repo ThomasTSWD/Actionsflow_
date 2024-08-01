@@ -617,3 +617,9 @@ Comments URL: https://news.ycombinator.com/item?id=41131181
 Points: 310
 # Comments: 142
 Link: https://100r.co/site/about_us.html
+Title: Flux: Open-source text-to-image model with 12B parameters
+Content Snippet: Article URL: https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/
+Comments URL: https://news.ycombinator.com/item?id=41130620
+Points: 313
+# Comments: 101
+Link: https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/
