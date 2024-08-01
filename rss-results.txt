@@ -623,3 +623,9 @@ Comments URL: https://news.ycombinator.com/item?id=41130620
 Points: 313
 # Comments: 101
 Link: https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/
+Title: CrowdStrike attempts takedown of parody site
+Content Snippet: Article URL: https://clownstrike.lol/crowdmad/
+Comments URL: https://news.ycombinator.com/item?id=41133917
+Points: 316
+# Comments: 56
+Link: https://clownstrike.lol/crowdmad/
