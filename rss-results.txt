@@ -593,3 +593,9 @@ Comments URL: https://news.ycombinator.com/item?id=41123155
 Points: 317
 # Comments: 147
 Link: https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/
+Title: How I got my laser eye injury
+Content Snippet: Article URL: https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/
+Comments URL: https://news.ycombinator.com/item?id=41127706
+Points: 301
+# Comments: 114
+Link: https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/
