@@ -611,3 +611,9 @@ Comments URL: https://news.ycombinator.com/item?id=41126944
 Points: 306
 # Comments: 124
 Link: https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers
+Title: Hundred Rabbits is a small collective exploring the failability of modern tech
+Content Snippet: Article URL: https://100r.co/site/about_us.html
+Comments URL: https://news.ycombinator.com/item?id=41131181
+Points: 310
+# Comments: 142
+Link: https://100r.co/site/about_us.html
