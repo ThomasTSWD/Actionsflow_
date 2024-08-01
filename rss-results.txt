@@ -599,3 +599,9 @@ Comments URL: https://news.ycombinator.com/item?id=41127706
 Points: 301
 # Comments: 114
 Link: https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/
+Title: Just Disconnect the Internet
+Content Snippet: Article URL: https://computer.rip/2024-07-31-just-disconnect-the-internet.html
+Comments URL: https://news.ycombinator.com/item?id=41125490
+Points: 304
+# Comments: 167
+Link: https://computer.rip/2024-07-31-just-disconnect-the-internet.html
