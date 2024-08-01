@@ -605,3 +605,9 @@ Comments URL: https://news.ycombinator.com/item?id=41125490
 Points: 304
 # Comments: 167
 Link: https://computer.rip/2024-07-31-just-disconnect-the-internet.html
+Title: Breakthrough a step toward revealing hidden structure of prime numbers
+Content Snippet: Article URL: https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers
+Comments URL: https://news.ycombinator.com/item?id=41126944
+Points: 306
+# Comments: 124
+Link: https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers
