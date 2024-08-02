@@ -647,3 +647,9 @@ Comments URL: https://news.ycombinator.com/item?id=41138701
 Points: 300
 # Comments: 65
 Link: https://github.com/ZitaoTech/Hackberry-Pi_Zero
+Title: The Marshmallow Test does not reliably predict adult functioning
+Content Snippet: Article URL: https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14129
+Comments URL: https://news.ycombinator.com/item?id=41139854
+Points: 309
+# Comments: 230
+Link: https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14129
