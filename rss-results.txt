@@ -635,3 +635,9 @@ Comments URL: https://news.ycombinator.com/item?id=41132669
 Points: 317
 # Comments: 86
 Link: https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw
+Title: The upstream cause of the youth mental health crisis is the loss of community
+Content Snippet: Article URL: https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental
+Comments URL: https://news.ycombinator.com/item?id=41139149
+Points: 306
+# Comments: 279
+Link: https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental
