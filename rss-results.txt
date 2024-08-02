@@ -641,3 +641,9 @@ Comments URL: https://news.ycombinator.com/item?id=41139149
 Points: 306
 # Comments: 279
 Link: https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental
+Title: Hackberry-Pi_Zero – A handheld Linux terminal using Raspberry Pi Zero 2W
+Content Snippet: Article URL: https://github.com/ZitaoTech/Hackberry-Pi_Zero
+Comments URL: https://news.ycombinator.com/item?id=41138701
+Points: 300
+# Comments: 65
+Link: https://github.com/ZitaoTech/Hackberry-Pi_Zero
