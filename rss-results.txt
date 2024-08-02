@@ -629,3 +629,9 @@ Comments URL: https://news.ycombinator.com/item?id=41133917
 Points: 316
 # Comments: 56
 Link: https://clownstrike.lol/crowdmad/
+Title: Russ Cox is stepping down as the Go tech lead
+Content Snippet: Article URL: https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw
+Comments URL: https://news.ycombinator.com/item?id=41132669
+Points: 317
+# Comments: 86
+Link: https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw
