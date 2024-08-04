@@ -671,3 +671,9 @@ Comments URL: https://news.ycombinator.com/item?id=41148517
 Points: 303
 # Comments: 66
 Link: https://learnhowtolearn.org/how-to-build-extremely-quickly/
+Title: Open Source Farming Robot
+Content Snippet: Article URL: https://farm.bot/
+Comments URL: https://news.ycombinator.com/item?id=41150095
+Points: 309
+# Comments: 129
+Link: https://farm.bot/
