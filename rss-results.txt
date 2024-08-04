@@ -677,3 +677,9 @@ Comments URL: https://news.ycombinator.com/item?id=41150095
 Points: 309
 # Comments: 129
 Link: https://farm.bot/
+Title: Reverse engineering the 59-pound printer onboard the Space Shuttle
+Content Snippet: Article URL: http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html
+Comments URL: https://news.ycombinator.com/item?id=41147643
+Points: 301
+# Comments: 88
+Link: http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html
