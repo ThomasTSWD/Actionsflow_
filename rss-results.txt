@@ -707,3 +707,9 @@ Comments URL: https://news.ycombinator.com/item?id=41159063
 Points: 323
 # Comments: 83
 Link: https://eci.ec.europa.eu/045/public/
+Title: Jailbroke my Kindle to use it as an e-ink monitor
+Content Snippet: Article URL: https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c
+Comments URL: https://news.ycombinator.com/item?id=41154410
+Points: 300
+# Comments: 110
+Link: https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c
