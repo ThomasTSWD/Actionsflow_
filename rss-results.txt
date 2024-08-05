@@ -726,3 +726,9 @@ Comments URL: https://news.ycombinator.com/item?id=41159180
 Points: 320
 # Comments: 66
 Link: https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/
+Title: Google Loses DOJ Antitrust Suit Over Search
+Content Snippet: Article URL: https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search
+Comments URL: https://news.ycombinator.com/item?id=41164240
+Points: 327
+# Comments: 185
+Link: https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search
