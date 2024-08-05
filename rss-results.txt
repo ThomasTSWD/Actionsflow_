@@ -732,3 +732,9 @@ Comments URL: https://news.ycombinator.com/item?id=41164240
 Points: 327
 # Comments: 185
 Link: https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search
+Title: Andy Warhol's lost Amiga art found
+Content Snippet: Article URL: https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/
+Comments URL: https://news.ycombinator.com/item?id=41162311
+Points: 310
+# Comments: 97
+Link: https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/
