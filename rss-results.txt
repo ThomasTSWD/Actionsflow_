@@ -689,3 +689,9 @@ Comments URL: https://news.ycombinator.com/item?id=41154135
 Points: 322
 # Comments: 80
 Link: https://phoboslab.org/log/2024/08/high_impact
+Title: How I Use "AI"
+Content Snippet: Article URL: https://nicholas.carlini.com/writing/2024/how-i-use-ai.html
+Comments URL: https://news.ycombinator.com/item?id=41150317
+Points: 301
+# Comments: 143
+Link: https://nicholas.carlini.com/writing/2024/how-i-use-ai.html
