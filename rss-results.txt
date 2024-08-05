@@ -683,3 +683,9 @@ Comments URL: https://news.ycombinator.com/item?id=41147643
 Points: 301
 # Comments: 88
 Link: http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html
+Title: Porting my JavaScript game engine to C for no reason
+Content Snippet: Article URL: https://phoboslab.org/log/2024/08/high_impact
+Comments URL: https://news.ycombinator.com/item?id=41154135
+Points: 322
+# Comments: 80
+Link: https://phoboslab.org/log/2024/08/high_impact
