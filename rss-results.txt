@@ -701,3 +701,9 @@ Comments URL: https://news.ycombinator.com/item?id=41157974
 Points: 300
 # Comments: 32
 Link: https://jakeseliger.com/2024/08/04/starting-hospice-the-end/
+Title: Stop Killing Games
+Content Snippet: Article URL: https://eci.ec.europa.eu/045/public/
+Comments URL: https://news.ycombinator.com/item?id=41159063
+Points: 323
+# Comments: 83
+Link: https://eci.ec.europa.eu/045/public/
