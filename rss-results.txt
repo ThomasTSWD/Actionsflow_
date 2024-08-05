@@ -713,3 +713,10 @@ Comments URL: https://news.ycombinator.com/item?id=41154410
 Points: 300
 # Comments: 110
 Link: https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c
+Title: Show HN: Free e-book about WebGPU Programming
+Content Snippet: I am excited to announce the launch of my e-book on Graphics/WebGPU programming! This project has consumed much of my spare time, during which I developed various tools to facilitate the publishing process, including a code playground and a static site generator that can reference sample codes.
+However, I'm feeling burnt out and ready to call it finished, even though it may not feel completely done. Avoiding another abandoned side project has been my primary motivation in reaching this point.
+Comments URL: https://news.ycombinator.com/item?id=41156872
+Points: 300
+# Comments: 37
+Link: https://shi-yan.github.io/webgpuunleashed/
