@@ -760,3 +760,9 @@ Comments URL: https://news.ycombinator.com/item?id=41163382
 Points: 332
 # Comments: 279
 Link: https://news.ycombinator.com/item?id=41163382
+Title: No Salt
+Content Snippet: Article URL: https://jakeseliger.com/2024/08/05/no-salt/
+Comments URL: https://news.ycombinator.com/item?id=41167467
+Points: 303
+# Comments: 87
+Link: https://jakeseliger.com/2024/08/05/no-salt/
