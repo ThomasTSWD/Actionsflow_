@@ -784,3 +784,9 @@ Comments URL: https://news.ycombinator.com/item?id=41173486
 Points: 310
 # Comments: 82
 Link: https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/
+Title: Structured Outputs in the API
+Content Snippet: Article URL: https://openai.com/index/introducing-structured-outputs-in-the-api/
+Comments URL: https://news.ycombinator.com/item?id=41173223
+Points: 315
+# Comments: 151
+Link: https://openai.com/index/introducing-structured-outputs-in-the-api/
