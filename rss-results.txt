@@ -766,3 +766,9 @@ Comments URL: https://news.ycombinator.com/item?id=41167467
 Points: 303
 # Comments: 87
 Link: https://jakeseliger.com/2024/08/05/no-salt/
+Title: OpenAI co-founder John Schulman says he will leave and join rival Anthropic
+Content Snippet: Article URL: https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html
+Comments URL: https://news.ycombinator.com/item?id=41168904
+Points: 307
+# Comments: 189
+Link: https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html
