@@ -778,3 +778,9 @@ Comments URL: https://news.ycombinator.com/item?id=41171060
 Points: 347
 # Comments: 316
 Link: https://blog.google/products/google-nest/chromecast-history/
+Title: Parody site ClownStrike refused to bow to CrowdStrike's bogus DMCA takedown
+Content Snippet: Article URL: https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/
+Comments URL: https://news.ycombinator.com/item?id=41173486
+Points: 310
+# Comments: 82
+Link: https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/
