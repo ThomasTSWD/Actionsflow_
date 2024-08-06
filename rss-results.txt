@@ -772,3 +772,9 @@ Comments URL: https://news.ycombinator.com/item?id=41168904
 Points: 307
 # Comments: 189
 Link: https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html
+Title: We’re ending production of Chromecast
+Content Snippet: Article URL: https://blog.google/products/google-nest/chromecast-history/
+Comments URL: https://news.ycombinator.com/item?id=41171060
+Points: 347
+# Comments: 316
+Link: https://blog.google/products/google-nest/chromecast-history/
