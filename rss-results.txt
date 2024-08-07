@@ -808,3 +808,9 @@ Comments URL: https://news.ycombinator.com/item?id=41176461
 Points: 318
 # Comments: 79
 Link: https://practical.engineering/blog/2024/8/6/how-french-drains-work
+Title: Show HN: I've spent nearly 5y on a web app that creates 3D apartments
+Content Snippet: Article URL: https://roometron.com
+Comments URL: https://news.ycombinator.com/item?id=41180504
+Points: 302
+# Comments: 116
+Link: https://roometron.com
