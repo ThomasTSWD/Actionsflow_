@@ -814,3 +814,9 @@ Comments URL: https://news.ycombinator.com/item?id=41180504
 Points: 302
 # Comments: 116
 Link: https://roometron.com
+Title: Tony Hawk's Pro Strcpy
+Content Snippet: Article URL: https://icode4.coffee/?p=954
+Comments URL: https://news.ycombinator.com/item?id=41183115
+Points: 307
+# Comments: 34
+Link: https://icode4.coffee/?p=954
