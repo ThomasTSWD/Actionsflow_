@@ -790,3 +790,9 @@ Comments URL: https://news.ycombinator.com/item?id=41173223
 Points: 315
 # Comments: 151
 Link: https://openai.com/index/introducing-structured-outputs-in-the-api/
+Title: Please do not attempt to simplify this code
+Content Snippet: Article URL: https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go
+Comments URL: https://news.ycombinator.com/item?id=41175586
+Points: 303
+# Comments: 175
+Link: https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go
