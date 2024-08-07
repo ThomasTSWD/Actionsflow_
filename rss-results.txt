@@ -802,3 +802,9 @@ Comments URL: https://news.ycombinator.com/item?id=41176831
 Points: 410
 # Comments: 117
 Link: https://teenage.engineering/products/ep-1320
+Title: How French Drains Work
+Content Snippet: Article URL: https://practical.engineering/blog/2024/8/6/how-french-drains-work
+Comments URL: https://news.ycombinator.com/item?id=41176461
+Points: 318
+# Comments: 79
+Link: https://practical.engineering/blog/2024/8/6/how-french-drains-work
