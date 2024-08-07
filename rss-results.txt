@@ -820,3 +820,9 @@ Comments URL: https://news.ycombinator.com/item?id=41183115
 Points: 307
 # Comments: 34
 Link: https://icode4.coffee/?p=954
+Title: Puppeteer Support for Firefox
+Content Snippet: Article URL: https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/
+Comments URL: https://news.ycombinator.com/item?id=41182847
+Points: 307
+# Comments: 40
+Link: https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/
