@@ -832,3 +832,9 @@ Comments URL: https://news.ycombinator.com/item?id=41184365
 Points: 311
 # Comments: 140
 Link: https://www.science.org/content/blog-post/prevention-hiv
+Title: Apple memory holed its broken promise for an OCSP opt-out
+Content Snippet: Article URL: https://lapcatsoftware.com/articles/2024/8/3.html
+Comments URL: https://news.ycombinator.com/item?id=41184153
+Points: 310
+# Comments: 67
+Link: https://lapcatsoftware.com/articles/2024/8/3.html
