@@ -838,3 +838,9 @@ Comments URL: https://news.ycombinator.com/item?id=41184153
 Points: 310
 # Comments: 67
 Link: https://lapcatsoftware.com/articles/2024/8/3.html
+Title: Google and Meta struck secret ads deal to target teenagers
+Content Snippet: Article URL: https://www.ft.com/content/b3bb80f4-4e01-4ce6-8358-f4f8638790f8
+Comments URL: https://news.ycombinator.com/item?id=41188295
+Points: 301
+# Comments: 109
+Link: https://www.ft.com/content/b3bb80f4-4e01-4ce6-8358-f4f8638790f8
