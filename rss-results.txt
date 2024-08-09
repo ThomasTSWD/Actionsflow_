@@ -880,3 +880,9 @@ Comments URL: https://news.ycombinator.com/item?id=41199567
 Points: 303
 # Comments: 73
 Link: https://otranscribe.com/
+Title: Jake Seliger has died
+Content Snippet: Article URL: https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html
+Comments URL: https://news.ycombinator.com/item?id=41201555
+Points: 356
+# Comments: 70
+Link: https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html
