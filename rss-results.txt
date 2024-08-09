@@ -886,3 +886,9 @@ Comments URL: https://news.ycombinator.com/item?id=41201555
 Points: 356
 # Comments: 70
 Link: https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html
+Title: USPS text scammers duped his wife, so he hacked their operation
+Content Snippet: Article URL: https://blog.smithsecurity.biz/hacking-the-scammers
+Comments URL: https://news.ycombinator.com/item?id=41197300
+Points: 302
+# Comments: 210
+Link: https://blog.smithsecurity.biz/hacking-the-scammers
