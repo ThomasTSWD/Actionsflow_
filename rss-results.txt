@@ -874,3 +874,9 @@ Comments URL: https://news.ycombinator.com/item?id=41194431
 Points: 306
 # Comments: 78
 Link: https://www.raptitude.com/2024/08/do-quests-not-goals/
+Title: OTranscribe: A free and open tool for transcribing audio interviews
+Content Snippet: Article URL: https://otranscribe.com/
+Comments URL: https://news.ycombinator.com/item?id=41199567
+Points: 303
+# Comments: 73
+Link: https://otranscribe.com/
