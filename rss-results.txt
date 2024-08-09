@@ -868,3 +868,9 @@ Comments URL: https://news.ycombinator.com/item?id=41194024
 Points: 325
 # Comments: 75
 Link: https://github.com/mikex86/LibreCuda
+Title: Do quests, not goals
+Content Snippet: Article URL: https://www.raptitude.com/2024/08/do-quests-not-goals/
+Comments URL: https://news.ycombinator.com/item?id=41194431
+Points: 306
+# Comments: 78
+Link: https://www.raptitude.com/2024/08/do-quests-not-goals/
