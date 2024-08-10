@@ -927,3 +927,9 @@ Comments URL: https://news.ycombinator.com/item?id=41207415
 Points: 307
 # Comments: 122
 Link: https://twitter.com/sundarpichai/status/1822132667959386588
+Title: Show HN: Attaching to a virtual GPU over TCP
+Content Snippet: We developed a tool to trick your computer into thinking it’s attached to a GPU which actually sits across a network. This allows you to switch the number or type of GPUs you’re using with a single command.
+Comments URL: https://news.ycombinator.com/item?id=41203475
+Points: 303
+# Comments: 101
+Link: https://www.thundercompute.com/
