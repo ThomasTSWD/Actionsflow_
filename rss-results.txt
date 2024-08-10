@@ -933,3 +933,9 @@ Comments URL: https://news.ycombinator.com/item?id=41203475
 Points: 303
 # Comments: 101
 Link: https://www.thundercompute.com/
+Title: A wonderful coincidence or an expected connection: why π² ≈ g
+Content Snippet: Article URL: https://roitman.io/blog/91
+Comments URL: https://news.ycombinator.com/item?id=41208988
+Points: 301
+# Comments: 193
+Link: https://roitman.io/blog/91
