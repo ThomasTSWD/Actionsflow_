@@ -921,3 +921,9 @@ Comments URL: https://news.ycombinator.com/item?id=41203368
 Points: 303
 # Comments: 147
 Link: https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a
+Title: Susan Wojcicki has died
+Content Snippet: Article URL: https://twitter.com/sundarpichai/status/1822132667959386588
+Comments URL: https://news.ycombinator.com/item?id=41207415
+Points: 307
+# Comments: 122
+Link: https://twitter.com/sundarpichai/status/1822132667959386588
