@@ -909,3 +909,9 @@ Comments URL: https://news.ycombinator.com/item?id=41203306
 Points: 304
 # Comments: 129
 Link: https://github.com/Dicklesworthstone/llm_aided_ocr
+Title: Defcon stiffs badge HW vendor, drags FW author offstage during talk
+Content Snippet: Article URL: https://twitter.com/mightymogomra/status/1822119942281650278
+Comments URL: https://news.ycombinator.com/item?id=41207221
+Points: 319
+# Comments: 61
+Link: https://twitter.com/mightymogomra/status/1822119942281650278
