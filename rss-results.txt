@@ -951,3 +951,9 @@ Comments URL: https://news.ycombinator.com/item?id=41213053
 Points: 301
 # Comments: 57
 Link: https://chevyray.dev/blog/creating-175-fonts/
+Title: OpenStreetMap Is Turning 20
+Content Snippet: Article URL: https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are
+Comments URL: https://news.ycombinator.com/item?id=41214259
+Points: 301
+# Comments: 86
+Link: https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are
