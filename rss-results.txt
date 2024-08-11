@@ -939,3 +939,9 @@ Comments URL: https://news.ycombinator.com/item?id=41208988
 Points: 301
 # Comments: 193
 Link: https://roitman.io/blog/91
+Title: OpenSnitch is a GNU/Linux interactive application firewall
+Content Snippet: Article URL: https://github.com/evilsocket/opensnitch
+Comments URL: https://news.ycombinator.com/item?id=41209688
+Points: 300
+# Comments: 63
+Link: https://github.com/evilsocket/opensnitch
