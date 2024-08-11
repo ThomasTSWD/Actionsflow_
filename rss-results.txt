@@ -963,3 +963,9 @@ Comments URL: https://news.ycombinator.com/item?id=41215727
 Points: 322
 # Comments: 83
 Link: https://github.com/versotile-org/verso
+Title: Firefox Browser Ported to HaikuOS
+Content Snippet: Article URL: https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7
+Comments URL: https://news.ycombinator.com/item?id=41214762
+Points: 304
+# Comments: 110
+Link: https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7
