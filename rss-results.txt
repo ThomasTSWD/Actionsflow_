@@ -975,3 +975,9 @@ Comments URL: https://news.ycombinator.com/item?id=41217037
 Points: 303
 # Comments: 237
 Link: https://twitter.com/singe/status/1822324795645575263
+Title: Show HN: My 70 year old grandma is learning to code and made a word game
+Content Snippet: Article URL: https://grandmasword.com
+Comments URL: https://news.ycombinator.com/item?id=41217109
+Points: 303
+# Comments: 115
+Link: https://grandmasword.com
