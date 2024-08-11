@@ -969,3 +969,9 @@ Comments URL: https://news.ycombinator.com/item?id=41214762
 Points: 304
 # Comments: 110
 Link: https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7
+Title: CrowdStrike accepting the PwnieAwards for "most epic fail" at defcon
+Content Snippet: Article URL: https://twitter.com/singe/status/1822324795645575263
+Comments URL: https://news.ycombinator.com/item?id=41217037
+Points: 303
+# Comments: 237
+Link: https://twitter.com/singe/status/1822324795645575263
