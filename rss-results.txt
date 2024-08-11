@@ -957,3 +957,9 @@ Comments URL: https://news.ycombinator.com/item?id=41214259
 Points: 301
 # Comments: 86
 Link: https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are
+Title: Verso – web browser built on top of the Servo web engine
+Content Snippet: Article URL: https://github.com/versotile-org/verso
+Comments URL: https://news.ycombinator.com/item?id=41215727
+Points: 322
+# Comments: 83
+Link: https://github.com/versotile-org/verso
