@@ -1005,3 +1005,9 @@ Comments URL: https://news.ycombinator.com/item?id=41223774
 Points: 316
 # Comments: 153
 Link: https://apnews.com/article/consumer-protection-ftc-fcc-biden-250f6eece6e2665535019128e8fa38da
+Title: How to avoid losing items? Holding pens
+Content Snippet: Article URL: https://blog.alexwendland.com/2024-07-07-holding-pens/
+Comments URL: https://news.ycombinator.com/item?id=41220059
+Points: 303
+# Comments: 191
+Link: https://blog.alexwendland.com/2024-07-07-holding-pens/
