@@ -1017,3 +1017,9 @@ Comments URL: https://news.ycombinator.com/item?id=41224225
 Points: 311
 # Comments: 97
 Link: https://qntm.org/scp
+Title: Apple's requirements are about to hit creators and fans on Patreon
+Content Snippet: Article URL: https://news.patreon.com/articles/understanding-apple-requirements-for-patreon
+Comments URL: https://news.ycombinator.com/item?id=41224853
+Points: 302
+# Comments: 267
+Link: https://news.patreon.com/articles/understanding-apple-requirements-for-patreon
