@@ -987,3 +987,9 @@ Comments URL: https://news.ycombinator.com/item?id=41217136
 Points: 304
 # Comments: 82
 Link: https://servermono.com/
+Title: Blitz: A lightweight, modular, extensible web renderer
+Content Snippet: Article URL: https://github.com/DioxusLabs/blitz
+Comments URL: https://news.ycombinator.com/item?id=41221252
+Points: 302
+# Comments: 80
+Link: https://github.com/DioxusLabs/blitz
