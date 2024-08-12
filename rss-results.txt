@@ -1023,3 +1023,18 @@ Comments URL: https://news.ycombinator.com/item?id=41224853
 Points: 302
 # Comments: 267
 Link: https://news.patreon.com/articles/understanding-apple-requirements-for-patreon
+Title: Show HN: PGlite – in-browser WASM Postgres with pgvector and live sync
+Content Snippet: Hey, Sam and the team from ElectricSQL here.
+PGlite is a WASM Postgres build packaged into a TypeScript/JavaScript client library, that enables you to run Postgres in the browser, Node.js and Bun, with no need to install any other dependencies. It's 3mb Gzipped, now has support for many Postgres extensions, including pgvector, and it has a reactive "live query" API. It's also fast, with CRUD style queries executing in under 0.3 ms, and larger, multi-row select queries occurring within a fraction of a single frame.
+PGlite started as an experimental project we shared on X, and the response to it was incredible, encouraging us to see how far we could take it. Since then we have been working to get it to a point where people can use it to build real things. We are incredibly excited as today, with the release of v0.2, the Supabase team has released the amazing http://postgres.new site built on top of it. Working with them to deliver both PGlite and postgres.new has been a joy.
+- https://pglite.dev - PGlite website
+- https://github.com/electric-sql/pglite - GitHub repo
+- https://pglite.dev/docs - Docs on how to use PGlite
+- https://pglite.dev/extensions - Extensions catalog
+- https://pglite.dev/benchmarks - Early micro-benchmarks
+- https://pglite.dev/repl - An online REPL so that you can try it in the browser
+We would love you to try it out, and we will be around to answer any questions.
+Comments URL: https://news.ycombinator.com/item?id=41224689
+Points: 301
+# Comments: 82
+Link: https://pglite.dev/
