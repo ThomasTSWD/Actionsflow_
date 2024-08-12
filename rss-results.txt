@@ -981,3 +981,9 @@ Comments URL: https://news.ycombinator.com/item?id=41217109
 Points: 303
 # Comments: 115
 Link: https://grandmasword.com
+Title: Server Mono: A Typeface Inspired by Typewriters, Apple's SF Mono, and CLIs
+Content Snippet: Article URL: https://servermono.com/
+Comments URL: https://news.ycombinator.com/item?id=41217136
+Points: 304
+# Comments: 82
+Link: https://servermono.com/
