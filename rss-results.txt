@@ -999,3 +999,9 @@ Comments URL: https://news.ycombinator.com/item?id=41217319
 Points: 302
 # Comments: 125
 Link: https://www.thetimes.com/uk/science/article/i-lost-my-job-so-spent-14-years-searching-for-osteoarthritis-cure-d6d69wwxz
+Title: US Government wants to make it easier for you to click the 'unsubscribe' button
+Content Snippet: Article URL: https://apnews.com/article/consumer-protection-ftc-fcc-biden-250f6eece6e2665535019128e8fa38da
+Comments URL: https://news.ycombinator.com/item?id=41223774
+Points: 316
+# Comments: 153
+Link: https://apnews.com/article/consumer-protection-ftc-fcc-biden-250f6eece6e2665535019128e8fa38da
