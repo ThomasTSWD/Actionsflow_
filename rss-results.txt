@@ -1011,3 +1011,9 @@ Comments URL: https://news.ycombinator.com/item?id=41220059
 Points: 303
 # Comments: 191
 Link: https://blog.alexwendland.com/2024-07-07-holding-pens/
+Title: There Is No Antimemetics Division (2018)
+Content Snippet: Article URL: https://qntm.org/scp
+Comments URL: https://news.ycombinator.com/item?id=41224225
+Points: 311
+# Comments: 97
+Link: https://qntm.org/scp
