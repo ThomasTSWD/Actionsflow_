@@ -993,3 +993,9 @@ Comments URL: https://news.ycombinator.com/item?id=41221252
 Points: 302
 # Comments: 80
 Link: https://github.com/DioxusLabs/blitz
+Title: It took my savings and 14 years but I’m about to beat arthritis
+Content Snippet: Article URL: https://www.thetimes.com/uk/science/article/i-lost-my-job-so-spent-14-years-searching-for-osteoarthritis-cure-d6d69wwxz
+Comments URL: https://news.ycombinator.com/item?id=41217319
+Points: 302
+# Comments: 125
+Link: https://www.thetimes.com/uk/science/article/i-lost-my-job-so-spent-14-years-searching-for-osteoarthritis-cure-d6d69wwxz
