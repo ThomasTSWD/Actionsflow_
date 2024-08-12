@@ -1038,3 +1038,9 @@ Comments URL: https://news.ycombinator.com/item?id=41224689
 Points: 301
 # Comments: 82
 Link: https://pglite.dev/
+Title: Repair and Remain
+Content Snippet: Article URL: https://comment.org/repair-and-remain/
+Comments URL: https://news.ycombinator.com/item?id=41226039
+Points: 325
+# Comments: 116
+Link: https://comment.org/repair-and-remain/
