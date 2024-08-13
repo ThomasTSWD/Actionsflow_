@@ -1056,3 +1056,9 @@ Comments URL: https://news.ycombinator.com/item?id=41229049
 Points: 303
 # Comments: 218
 Link: https://www.flyingmag.com/modern/nasa-investigation-finds-boeing-hindering-americans-return-to-moon/
+Title: Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig
+Content Snippet: Article URL: https://github.com/judofyr/spice
+Comments URL: https://news.ycombinator.com/item?id=41230344
+Points: 305
+# Comments: 34
+Link: https://github.com/judofyr/spice
