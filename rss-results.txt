@@ -1050,3 +1050,9 @@ Comments URL: https://news.ycombinator.com/item?id=41228630
 Points: 331
 # Comments: 121
 Link: https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional
+Title: NASA investigation finds Boeing hindering Americans' return to moon
+Content Snippet: Article URL: https://www.flyingmag.com/modern/nasa-investigation-finds-boeing-hindering-americans-return-to-moon/
+Comments URL: https://news.ycombinator.com/item?id=41229049
+Points: 303
+# Comments: 218
+Link: https://www.flyingmag.com/modern/nasa-investigation-finds-boeing-hindering-americans-return-to-moon/
