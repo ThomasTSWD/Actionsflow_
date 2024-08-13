@@ -1068,3 +1068,9 @@ Comments URL: https://news.ycombinator.com/item?id=41231731
 Points: 309
 # Comments: 251
 Link: https://www.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html
+Title: Google Pixel 9 Pro
+Content Snippet: Article URL: https://store.google.com/us/product/pixel_9_pro?hl=en-US
+Comments URL: https://news.ycombinator.com/item?id=41237275
+Points: 321
+# Comments: 706
+Link: https://store.google.com/us/product/pixel_9_pro?hl=en-US
