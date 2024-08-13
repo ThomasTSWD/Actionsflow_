@@ -1062,3 +1062,9 @@ Comments URL: https://news.ycombinator.com/item?id=41230344
 Points: 305
 # Comments: 34
 Link: https://github.com/judofyr/spice
+Title: Study shows that tacking the “AI” label on products may drive people away
+Content Snippet: Article URL: https://www.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html
+Comments URL: https://news.ycombinator.com/item?id=41231731
+Points: 309
+# Comments: 251
+Link: https://www.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html
