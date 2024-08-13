@@ -1074,3 +1074,9 @@ Comments URL: https://news.ycombinator.com/item?id=41237275
 Points: 321
 # Comments: 706
 Link: https://store.google.com/us/product/pixel_9_pro?hl=en-US
+Title: All of Earth's water in a single sphere
+Content Snippet: Article URL: https://www.usgs.gov/media/images/all-earths-water-a-single-sphere
+Comments URL: https://news.ycombinator.com/item?id=41238102
+Points: 317
+# Comments: 151
+Link: https://www.usgs.gov/media/images/all-earths-water-a-single-sphere
