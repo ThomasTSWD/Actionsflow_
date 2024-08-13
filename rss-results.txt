@@ -1044,3 +1044,9 @@ Comments URL: https://news.ycombinator.com/item?id=41226039
 Points: 325
 # Comments: 116
 Link: https://comment.org/repair-and-remain/
+Title: Federal appeals court finds geofence warrants "categorically" unconstitutional
+Content Snippet: Article URL: https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional
+Comments URL: https://news.ycombinator.com/item?id=41228630
+Points: 331
+# Comments: 121
+Link: https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional
