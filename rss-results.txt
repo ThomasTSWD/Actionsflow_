@@ -1098,3 +1098,9 @@ Comments URL: https://news.ycombinator.com/item?id=41243992
 Points: 300
 # Comments: 110
 Link: https://blog.jim-nielsen.com/2023/examples-of-great-urls/
+Title: Show HN: If YouTube had actual channels
+Content Snippet: Article URL: https://ytch.xyz
+Comments URL: https://news.ycombinator.com/item?id=41247023
+Points: 346
+# Comments: 117
+Link: https://ytch.xyz
