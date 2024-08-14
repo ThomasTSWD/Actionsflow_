@@ -1092,3 +1092,9 @@ Comments URL: https://news.ycombinator.com/item?id=41242400
 Points: 309
 # Comments: 143
 Link: https://wdwnt.com/2024/08/disney-dismissal-wrongful-death-lawsuit/
+Title: Examples of Great URL Design (2023)
+Content Snippet: Article URL: https://blog.jim-nielsen.com/2023/examples-of-great-urls/
+Comments URL: https://news.ycombinator.com/item?id=41243992
+Points: 300
+# Comments: 110
+Link: https://blog.jim-nielsen.com/2023/examples-of-great-urls/
