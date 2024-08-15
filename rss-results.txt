@@ -1122,3 +1122,9 @@ Comments URL: https://news.ycombinator.com/item?id=41247982
 Points: 323
 # Comments: 128
 Link: https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40
+Title: Kim Dotcom's Extradition to the U.S. Given Green Light by New Zealand
+Content Snippet: Article URL: https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/
+Comments URL: https://news.ycombinator.com/item?id=41254989
+Points: 315
+# Comments: 408
+Link: https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/
