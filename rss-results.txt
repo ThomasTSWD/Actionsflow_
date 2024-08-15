@@ -1110,3 +1110,9 @@ Comments URL: https://news.ycombinator.com/item?id=41251412
 Points: 395
 # Comments: 168
 Link: https://github.com/
+Title: Inside the "3 billion people" national public data breach
+Content Snippet: Article URL: https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/
+Comments URL: https://news.ycombinator.com/item?id=41248104
+Points: 330
+# Comments: 205
+Link: https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/
