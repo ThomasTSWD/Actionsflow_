@@ -1128,3 +1128,9 @@ Comments URL: https://news.ycombinator.com/item?id=41254989
 Points: 315
 # Comments: 408
 Link: https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/
+Title: Galois Theory
+Content Snippet: Article URL: https://golem.ph.utexas.edu/category/2024/08/galois_theory.html
+Comments URL: https://news.ycombinator.com/item?id=41255456
+Points: 302
+# Comments: 149
+Link: https://golem.ph.utexas.edu/category/2024/08/galois_theory.html
