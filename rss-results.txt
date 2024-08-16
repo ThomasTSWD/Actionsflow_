@@ -1152,3 +1152,9 @@ Comments URL: https://news.ycombinator.com/item?id=41256222
 Points: 302
 # Comments: 342
 Link: https://www.cockroachlabs.com/enterprise-license-update/
+Title: CSS Grid Areas
+Content Snippet: Article URL: https://ishadeed.com/article/css-grid-area/
+Comments URL: https://news.ycombinator.com/item?id=41262691
+Points: 300
+# Comments: 74
+Link: https://ishadeed.com/article/css-grid-area/
