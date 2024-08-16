@@ -1146,3 +1146,9 @@ Comments URL: https://news.ycombinator.com/item?id=41261986
 Points: 310
 # Comments: 199
 Link: https://www.bloomberg.com/news/articles/2024-08-15/starbucks-victoria-s-secret-are-part-of-broader-trend-of-remote-ceos
+Title: CockroachDB license change
+Content Snippet: Article URL: https://www.cockroachlabs.com/enterprise-license-update/
+Comments URL: https://news.ycombinator.com/item?id=41256222
+Points: 302
+# Comments: 342
+Link: https://www.cockroachlabs.com/enterprise-license-update/
