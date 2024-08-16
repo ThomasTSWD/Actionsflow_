@@ -1140,3 +1140,9 @@ Comments URL: https://news.ycombinator.com/item?id=41253922
 Points: 303
 # Comments: 86
 Link: https://github.com/markqvist/NomadNet
+Title: CEOs are running companies from afar even as workers return to office
+Content Snippet: Article URL: https://www.bloomberg.com/news/articles/2024-08-15/starbucks-victoria-s-secret-are-part-of-broader-trend-of-remote-ceos
+Comments URL: https://news.ycombinator.com/item?id=41261986
+Points: 310
+# Comments: 199
+Link: https://www.bloomberg.com/news/articles/2024-08-15/starbucks-victoria-s-secret-are-part-of-broader-trend-of-remote-ceos
