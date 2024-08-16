@@ -1134,3 +1134,9 @@ Comments URL: https://news.ycombinator.com/item?id=41255456
 Points: 302
 # Comments: 149
 Link: https://golem.ph.utexas.edu/category/2024/08/galois_theory.html
+Title: Nomad, communicate off-grid mesh, forward secrecy and extreme privacy
+Content Snippet: Article URL: https://github.com/markqvist/NomadNet
+Comments URL: https://news.ycombinator.com/item?id=41253922
+Points: 303
+# Comments: 86
+Link: https://github.com/markqvist/NomadNet
