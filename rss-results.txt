@@ -1176,3 +1176,9 @@ Comments URL: https://news.ycombinator.com/item?id=41267478
 Points: 302
 # Comments: 28
 Link: https://discrete.openmathbooks.org/dmoi4.html
+Title: Google Removed Organic Maps from the Playstore
+Content Snippet: Article URL: https://twitter.com/organicmapsapp/status/1824727403580596260
+Comments URL: https://news.ycombinator.com/item?id=41272925
+Points: 301
+# Comments: 81
+Link: https://twitter.com/organicmapsapp/status/1824727403580596260
