@@ -1170,3 +1170,9 @@ Comments URL: https://news.ycombinator.com/item?id=41269321
 Points: 309
 # Comments: 105
 Link: https://vanillajsx.com/
+Title: Discrete Mathematics – An Open Introduction, 4th edition
+Content Snippet: Article URL: https://discrete.openmathbooks.org/dmoi4.html
+Comments URL: https://news.ycombinator.com/item?id=41267478
+Points: 302
+# Comments: 28
+Link: https://discrete.openmathbooks.org/dmoi4.html
