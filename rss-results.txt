@@ -1188,3 +1188,9 @@ Comments URL: https://news.ycombinator.com/item?id=41272861
 Points: 300
 # Comments: 209
 Link: https://fortune.com/europe/2024/08/14/x-ordered-to-pay-550000-to-irish-employee-fired-for-not-replying-to-elon-musk-yes-or-resign-extremely-hardcore-ultimatum/
+Title: Show HN: AI Analyzes What the Startup Would Be Interested in Buying. Sales Tool
+Content Snippet: Article URL: https://old.reddit.com/r/salestechniques/comments/1euftop/tool_which_tracks_all_vc_funded_startups_it/
+Comments URL: https://news.ycombinator.com/item?id=41273803
+Points: 381
+# Comments: 0
+Link: https://old.reddit.com/r/salestechniques/comments/1euftop/tool_which_tracks_all_vc_funded_startups_it/
