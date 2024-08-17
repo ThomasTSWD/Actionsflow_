@@ -1164,3 +1164,9 @@ Comments URL: https://news.ycombinator.com/item?id=41263143
 Points: 301
 # Comments: 398
 Link: https://github.com/ociubotaru/transcripts/blob/main/Stanford_ECON295%E2%A7%B8CS323_I_2024_I_The_Age_of_AI%2C_Eric_Schmidt.txt
+Title: VanillaJSX.com
+Content Snippet: Article URL: https://vanillajsx.com/
+Comments URL: https://news.ycombinator.com/item?id=41269321
+Points: 309
+# Comments: 105
+Link: https://vanillajsx.com/
