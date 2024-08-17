@@ -1194,3 +1194,9 @@ Comments URL: https://news.ycombinator.com/item?id=41273803
 Points: 381
 # Comments: 0
 Link: https://old.reddit.com/r/salestechniques/comments/1euftop/tool_which_tracks_all_vc_funded_startups_it/
+Title: Magic Wormhole: get things from one computer to another, safely
+Content Snippet: Article URL: https://github.com/magic-wormhole/magic-wormhole
+Comments URL: https://news.ycombinator.com/item?id=41275920
+Points: 304
+# Comments: 120
+Link: https://github.com/magic-wormhole/magic-wormhole
