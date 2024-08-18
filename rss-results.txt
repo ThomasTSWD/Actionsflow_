@@ -1200,3 +1200,9 @@ Comments URL: https://news.ycombinator.com/item?id=41275920
 Points: 304
 # Comments: 120
 Link: https://github.com/magic-wormhole/magic-wormhole
+Title: Mpv – A free, open-source, and cross-platform media player
+Content Snippet: Article URL: https://mpv.io/
+Comments URL: https://news.ycombinator.com/item?id=41277014
+Points: 362
+# Comments: 165
+Link: https://mpv.io/
