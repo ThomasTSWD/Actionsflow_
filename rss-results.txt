@@ -1218,3 +1218,9 @@ Comments URL: https://news.ycombinator.com/item?id=41275846
 Points: 302
 # Comments: 191
 Link: https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html
+Title: Blockbuster Video VHS insert template
+Content Snippet: Article URL: https://github.com/rfinnie/blockbuster
+Comments URL: https://news.ycombinator.com/item?id=41276605
+Points: 304
+# Comments: 71
+Link: https://github.com/rfinnie/blockbuster
