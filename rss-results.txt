@@ -1224,3 +1224,9 @@ Comments URL: https://news.ycombinator.com/item?id=41276605
 Points: 304
 # Comments: 71
 Link: https://github.com/rfinnie/blockbuster
+Title: Police Cannot Seize Property Indefinitely After an Arrest, Federal Court Rules
+Content Snippet: Article URL: https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/
+Comments URL: https://news.ycombinator.com/item?id=41283310
+Points: 318
+# Comments: 127
+Link: https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/
