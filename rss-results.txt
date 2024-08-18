@@ -1212,3 +1212,9 @@ Comments URL: https://news.ycombinator.com/item?id=41274602
 Points: 300
 # Comments: 108
 Link: https://files.eric.ed.gov/fulltext/ED505647.pdf
+Title: Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out
+Content Snippet: Article URL: https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html
+Comments URL: https://news.ycombinator.com/item?id=41275846
+Points: 302
+# Comments: 191
+Link: https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html
