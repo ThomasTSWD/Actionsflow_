@@ -1230,3 +1230,9 @@ Comments URL: https://news.ycombinator.com/item?id=41283310
 Points: 318
 # Comments: 127
 Link: https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/
+Title: Dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV
+Content Snippet: Article URL: https://github.com/TomWright/dasel
+Comments URL: https://news.ycombinator.com/item?id=41282495
+Points: 300
+# Comments: 53
+Link: https://github.com/TomWright/dasel
