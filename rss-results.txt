@@ -1248,3 +1248,9 @@ Comments URL: https://news.ycombinator.com/item?id=41286203
 Points: 300
 # Comments: 135
 Link: https://emnudge.dev/blog/markov-chains-are-funny/
+Title: Roblox is the biggest game in the world, but is unprofitable
+Content Snippet: Article URL: https://www.matthewball.co/all/roblox2024
+Comments URL: https://news.ycombinator.com/item?id=41287099
+Points: 300
+# Comments: 323
+Link: https://www.matthewball.co/all/roblox2024
