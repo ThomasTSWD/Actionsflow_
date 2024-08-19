@@ -1254,3 +1254,9 @@ Comments URL: https://news.ycombinator.com/item?id=41287099
 Points: 300
 # Comments: 323
 Link: https://www.matthewball.co/all/roblox2024
+Title: Parsing protobuf at 2+GB/s: how I learned to love tail calls in C (2021)
+Content Snippet: Article URL: https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html
+Comments URL: https://news.ycombinator.com/item?id=41289114
+Points: 302
+# Comments: 135
+Link: https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html
