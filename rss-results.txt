@@ -1260,3 +1260,9 @@ Comments URL: https://news.ycombinator.com/item?id=41289114
 Points: 302
 # Comments: 135
 Link: https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html
+Title: The gigantic and unregulated power plants in the cloud
+Content Snippet: Article URL: https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/
+Comments URL: https://news.ycombinator.com/item?id=41292018
+Points: 302
+# Comments: 151
+Link: https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/
