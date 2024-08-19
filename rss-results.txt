@@ -1242,3 +1242,9 @@ Comments URL: https://news.ycombinator.com/item?id=41286045
 Points: 305
 # Comments: 136
 Link: https://www.theblock.co/post/311707/google-took-three-months-to-remove-scam-app-that-stole-over-5-million-in-crypto-lawsuit
+Title: Markov chains are funnier than LLMs
+Content Snippet: Article URL: https://emnudge.dev/blog/markov-chains-are-funny/
+Comments URL: https://news.ycombinator.com/item?id=41286203
+Points: 300
+# Comments: 135
+Link: https://emnudge.dev/blog/markov-chains-are-funny/
