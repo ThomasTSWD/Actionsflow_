@@ -1288,3 +1288,9 @@ Comments URL: https://news.ycombinator.com/item?id=41291219
 Points: 300
 # Comments: 130
 Link: https://news.ycombinator.com/item?id=41291219
+Title: Sourcegraph went dark
+Content Snippet: Article URL: https://eric-fritz.com/articles/sourcegraph-went-dark/
+Comments URL: https://news.ycombinator.com/item?id=41296481
+Points: 308
+# Comments: 127
+Link: https://eric-fritz.com/articles/sourcegraph-went-dark/
