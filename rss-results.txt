@@ -1300,3 +1300,9 @@ Comments URL: https://news.ycombinator.com/item?id=41298794
 Points: 311
 # Comments: 220
 Link: https://maxschmitt.me/posts/toasts-bad-ux
+Title: The anatomy of a 2AM mental breakdown
+Content Snippet: Article URL: https://zarar.dev/anatomy-of-a-mental-breakdown/
+Comments URL: https://news.ycombinator.com/item?id=41300368
+Points: 306
+# Comments: 181
+Link: https://zarar.dev/anatomy-of-a-mental-breakdown/
