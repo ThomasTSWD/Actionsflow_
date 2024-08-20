@@ -1266,3 +1266,9 @@ Comments URL: https://news.ycombinator.com/item?id=41292018
 Points: 302
 # Comments: 151
 Link: https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/
+Title: 13ft – A site similar to 12ft.io but self-hosted
+Content Snippet: Article URL: https://github.com/wasi-master/13ft
+Comments URL: https://news.ycombinator.com/item?id=41294067
+Points: 301
+# Comments: 144
+Link: https://github.com/wasi-master/13ft
