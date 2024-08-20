@@ -1294,3 +1294,9 @@ Comments URL: https://news.ycombinator.com/item?id=41296481
 Points: 308
 # Comments: 127
 Link: https://eric-fritz.com/articles/sourcegraph-went-dark/
+Title: Toasts Are Bad UX
+Content Snippet: Article URL: https://maxschmitt.me/posts/toasts-bad-ux
+Comments URL: https://news.ycombinator.com/item?id=41298794
+Points: 311
+# Comments: 220
+Link: https://maxschmitt.me/posts/toasts-bad-ux
