@@ -1342,3 +1342,9 @@ Comments URL: https://news.ycombinator.com/item?id=41307195
 Points: 300
 # Comments: 138
 Link: https://github.com/shadps4-emu/shadPS4
+Title: I've built my first successful side project, and I hate it
+Content Snippet: Article URL: https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/
+Comments URL: https://news.ycombinator.com/item?id=41308599
+Points: 346
+# Comments: 97
+Link: https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/
