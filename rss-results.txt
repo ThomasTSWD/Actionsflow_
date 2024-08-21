@@ -1306,3 +1306,9 @@ Comments URL: https://news.ycombinator.com/item?id=41300368
 Points: 306
 # Comments: 181
 Link: https://zarar.dev/anatomy-of-a-mental-breakdown/
+Title: MIT leaders describe the experience of not renewing Elsevier contract
+Content Snippet: Article URL: https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/
+Comments URL: https://news.ycombinator.com/item?id=41303159
+Points: 324
+# Comments: 118
+Link: https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/
