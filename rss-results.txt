@@ -1324,3 +1324,9 @@ Comments URL: https://news.ycombinator.com/item?id=41302782
 Points: 304
 # Comments: 208
 Link: https://zed.dev/blog/zed-ai
+Title: Zen, a Arc-like open-source browser based on the Firefox engine
+Content Snippet: Article URL: https://www.zen-browser.app/
+Comments URL: https://news.ycombinator.com/item?id=41303974
+Points: 306
+# Comments: 110
+Link: https://www.zen-browser.app/
