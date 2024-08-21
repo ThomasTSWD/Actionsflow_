@@ -1318,3 +1318,9 @@ Comments URL: https://news.ycombinator.com/item?id=41302597
 Points: 346
 # Comments: 90
 Link: https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via
+Title: Zed AI
+Content Snippet: Article URL: https://zed.dev/blog/zed-ai
+Comments URL: https://news.ycombinator.com/item?id=41302782
+Points: 304
+# Comments: 208
+Link: https://zed.dev/blog/zed-ai
