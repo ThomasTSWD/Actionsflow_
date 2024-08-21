@@ -1336,3 +1336,9 @@ Comments URL: https://news.ycombinator.com/item?id=41307011
 Points: 302
 # Comments: 183
 Link: https://csvbase.com/blog/13
+Title: ShadPS4 – PlayStation 4 emulator
+Content Snippet: Article URL: https://github.com/shadps4-emu/shadPS4
+Comments URL: https://news.ycombinator.com/item?id=41307195
+Points: 300
+# Comments: 138
+Link: https://github.com/shadps4-emu/shadPS4
