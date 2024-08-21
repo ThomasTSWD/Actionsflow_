@@ -1330,3 +1330,9 @@ Comments URL: https://news.ycombinator.com/item?id=41303974
 Points: 306
 # Comments: 110
 Link: https://www.zen-browser.app/
+Title: The semantic web is now very widely adopted
+Content Snippet: Article URL: https://csvbase.com/blog/13
+Comments URL: https://news.ycombinator.com/item?id=41307011
+Points: 302
+# Comments: 183
+Link: https://csvbase.com/blog/13
