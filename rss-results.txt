@@ -1416,3 +1416,9 @@ Comments URL: https://news.ycombinator.com/item?id=41322281
 Points: 314
 # Comments: 86
 Link: https://github.com/instantdb/instant
+Title: What is an SBAT and why does everyone suddenly care
+Content Snippet: Article URL: https://mjg59.dreamwidth.org/70348.html
+Comments URL: https://news.ycombinator.com/item?id=41318222
+Points: 301
+# Comments: 161
+Link: https://mjg59.dreamwidth.org/70348.html
