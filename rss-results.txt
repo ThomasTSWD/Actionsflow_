@@ -1366,3 +1366,9 @@ Comments URL: https://news.ycombinator.com/item?id=41310384
 Points: 300
 # Comments: 135
 Link: https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging
+Title: I'm tired of fixing customers' AI generated code
+Content Snippet: Article URL: https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb
+Comments URL: https://news.ycombinator.com/item?id=41315138
+Points: 302
+# Comments: 196
+Link: https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb
