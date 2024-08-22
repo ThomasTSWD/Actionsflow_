@@ -1348,3 +1348,9 @@ Comments URL: https://news.ycombinator.com/item?id=41308599
 Points: 346
 # Comments: 97
 Link: https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/
+Title: Linux desktop market share climbs to 4.45%
+Content Snippet: Article URL: https://ostechnix.com/linux-market-share-july-2024-report/
+Comments URL: https://news.ycombinator.com/item?id=41312883
+Points: 301
+# Comments: 312
+Link: https://ostechnix.com/linux-market-share-july-2024-report/
