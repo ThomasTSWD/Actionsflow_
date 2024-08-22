@@ -1378,3 +1378,41 @@ Comments URL: https://news.ycombinator.com/item?id=41316999
 Points: 300
 # Comments: 130
 Link: https://www.gamingonlinux.com/2024/08/celebrating-6-years-since-valve-announced-steam-play-proton-for-linux/
+Title: Show HN: InstantDB – A Modern Firebase
+Content Snippet: Hey there HN! We’re Joe and Stopa, and today we’re open sourcing InstantDB, a client-side database that makes it easy to build real-time and collaborative apps like Notion and Figma.
+Building modern apps these days involves a lot of schleps. For a basic CRUD app you need to spin up servers, wire up endpoints, integrate auth, add permissions, and then marshal data from the backend to the frontend and back again. If you want to deliver a buttery smooth user experience, you’ll need to add optimistic updates and rollbacks. We do these steps over and over for every feature we build, which can make it difficult to build delightful software. Could it be better?
+We were senior and staff engineers at Facebook and Airbnb and had been thinking about this problem for years. In 2021, Stopa wrote an essay talking about how these schleps are actually database problems in disguise [1]. In 2022, Stopa wrote another essay sketching out a solution with a Firebase-like database with support for relations [2]. In the last two years we got the backing of James Tamplin (CEO of Firebase), became a team of 5 engineers, pushed almost ~2k commits, and today became open source.
+Making a chat app in Instant is as simple as
+    function Chat() {
+      // 1. Read
+      const { isLoading, error, data } = useQuery({
+        messages: {},
+      });
+    
+      // 2. Write
+      const addMessage = (message) => {
+        transact(tx.messages[id()].update(message));
+      }
+    
+      // 3. Render!
+      return 
+    }
+
+Under the hood we save data to postgres as triples and wrote a datalog engine for fetching data [3]. We don’t expect you to write datalog queries so we wrote a graphql-like query language that doesn’t require any build step.
+Taking inspiration from Asana’s WorldStore and Figma’s LiveGraph, we tail postgres’ WAL to detect novelty and use last-write-win semantics to handle conflicts [4][5]. We also handle websocket connections and persist data to IndexDB on web and AsyncStorage for React Native, giving you multiplayer and offline mode for free.
+This is the kind of infrastructure Linear uses to power their sync and build better features faster [6]. Instant gives you this infrastructure so you can focus on what’s important: building a great UX for your users, and doing it quickly. We have auth, permissions, and a dashboard with a suite tools for you to explore and manage your data. We also support ephemeral capabilities like presence (e.g. sharing cursors) and broadcast (e.g. live reactions) [7][8].
+We have a free hosted solution where we don’t pause projects, we don’t limit the number of active applications, and we have no restrictions for commercial use. We can do this because our architecture doesn’t require spinning up a separate servers for each app. When you’re ready to grow, we have paid plans that scale with you. And of course you can self host both the backend and the dashboard tools on your own.
+Give us a spin today at https://instantdb.com/tutorial and see our code at https://github.com/instantdb/instant
+We love feedback :)
+[1] https://www.instantdb.com/essays/db_browser
+[2] https://www.instantdb.com/essays/next_firebase
+[3] https://www.instantdb.com/essays/datalogjs
+[4] https://asana.com/inside-asana/worldstore-distributed-cachin...
+[5] https://www.figma.com/blog/how-figmas-multiplayer-technology...
+[6] https://www.youtube.com/live/WxK11RsLqp4?t=2175s
+[7] https://www.joewords.com/posts/cursors
+[8] https://www.instantdb.com/examples?#5-reactions
+Comments URL: https://news.ycombinator.com/item?id=41322281
+Points: 314
+# Comments: 86
+Link: https://github.com/instantdb/instant
