@@ -1354,3 +1354,9 @@ Comments URL: https://news.ycombinator.com/item?id=41312883
 Points: 301
 # Comments: 312
 Link: https://ostechnix.com/linux-market-share-july-2024-report/
+Title: US hospital told family their daughter had checked out when in fact she'd died
+Content Snippet: Article URL: https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out
+Comments URL: https://news.ycombinator.com/item?id=41313740
+Points: 301
+# Comments: 160
+Link: https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out
