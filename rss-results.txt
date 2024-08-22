@@ -1360,3 +1360,9 @@ Comments URL: https://news.ycombinator.com/item?id=41313740
 Points: 301
 # Comments: 160
 Link: https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out
+Title: How to build a 50k ton forging press
+Content Snippet: Article URL: https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging
+Comments URL: https://news.ycombinator.com/item?id=41310384
+Points: 300
+# Comments: 135
+Link: https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging
