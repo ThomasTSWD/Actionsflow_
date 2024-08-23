@@ -1428,3 +1428,9 @@ Comments URL: https://news.ycombinator.com/item?id=41321063
 Points: 300
 # Comments: 68
 Link: https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html
+Title: Python's Preprocessor
+Content Snippet: Article URL: https://pydong.org/posts/PythonsPreprocessor/
+Comments URL: https://news.ycombinator.com/item?id=41322758
+Points: 309
+# Comments: 70
+Link: https://pydong.org/posts/PythonsPreprocessor/
