@@ -1440,3 +1440,9 @@ Comments URL: https://news.ycombinator.com/item?id=41325889
 Points: 302
 # Comments: 138
 Link: https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/
+Title: 17-Year-Old Student Exposes Germany's 'Secret' Pirate Site Blocklist
+Content Snippet: Article URL: https://torrentfreak.com/17-year-old-student-exposes-germanys-secret-pirate-site-blocklist-240822/
+Comments URL: https://news.ycombinator.com/item?id=41328784
+Points: 301
+# Comments: 109
+Link: https://torrentfreak.com/17-year-old-student-exposes-germanys-secret-pirate-site-blocklist-240822/
