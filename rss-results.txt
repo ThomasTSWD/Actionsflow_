@@ -1446,3 +1446,9 @@ Comments URL: https://news.ycombinator.com/item?id=41328784
 Points: 301
 # Comments: 109
 Link: https://torrentfreak.com/17-year-old-student-exposes-germanys-secret-pirate-site-blocklist-240822/
+Title: We need to liberate the Postcode Address File
+Content Snippet: Article URL: https://takes.jamesomalley.co.uk/p/secret-paf-report
+Comments URL: https://news.ycombinator.com/item?id=41326604
+Points: 301
+# Comments: 250
+Link: https://takes.jamesomalley.co.uk/p/secret-paf-report
