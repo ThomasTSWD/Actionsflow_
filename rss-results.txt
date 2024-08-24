@@ -1476,3 +1476,9 @@ Comments URL: https://news.ycombinator.com/item?id=41331369
 Points: 301
 # Comments: 406
 Link: https://www.macrumors.com/2024/08/23/meta-cancels-high-end-headset/
+Title: Microsoft formally deprecates the Windows Control Panel
+Content Snippet: Article URL: https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/
+Comments URL: https://news.ycombinator.com/item?id=41331851
+Points: 302
+# Comments: 436
+Link: https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/
