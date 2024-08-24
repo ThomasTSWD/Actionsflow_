@@ -1464,3 +1464,9 @@ Comments URL: https://news.ycombinator.com/item?id=41329505
 Points: 300
 # Comments: 116
 Link: https://github.com/dpjudas/SurrealEngine
+Title: We have reached OpenBSD of Theseus
+Content Snippet: Article URL: https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2
+Comments URL: https://news.ycombinator.com/item?id=41332342
+Points: 301
+# Comments: 44
+Link: https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2
