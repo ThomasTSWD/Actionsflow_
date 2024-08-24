@@ -1458,3 +1458,9 @@ Comments URL: https://news.ycombinator.com/item?id=41334207
 Points: 325
 # Comments: 129
 Link: https://alexyancey.com/lost-airpods/
+Title: SurrealEngine: Open-source reimplementation of Unreal Engine with playable UT99
+Content Snippet: Article URL: https://github.com/dpjudas/SurrealEngine
+Comments URL: https://news.ycombinator.com/item?id=41329505
+Points: 300
+# Comments: 116
+Link: https://github.com/dpjudas/SurrealEngine
