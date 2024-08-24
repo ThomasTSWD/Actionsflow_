@@ -1452,3 +1452,9 @@ Comments URL: https://news.ycombinator.com/item?id=41326604
 Points: 301
 # Comments: 250
 Link: https://takes.jamesomalley.co.uk/p/secret-paf-report
+Title: Did you lose your AirPods?
+Content Snippet: Article URL: https://alexyancey.com/lost-airpods/
+Comments URL: https://news.ycombinator.com/item?id=41334207
+Points: 325
+# Comments: 129
+Link: https://alexyancey.com/lost-airpods/
