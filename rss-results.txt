@@ -1470,3 +1470,9 @@ Comments URL: https://news.ycombinator.com/item?id=41332342
 Points: 301
 # Comments: 44
 Link: https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2
+Title: Meta cancels high-end mixed reality headset after Apple Vision Pro struggles
+Content Snippet: Article URL: https://www.macrumors.com/2024/08/23/meta-cancels-high-end-headset/
+Comments URL: https://news.ycombinator.com/item?id=41331369
+Points: 301
+# Comments: 406
+Link: https://www.macrumors.com/2024/08/23/meta-cancels-high-end-headset/
