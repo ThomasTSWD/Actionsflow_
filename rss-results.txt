@@ -1482,3 +1482,9 @@ Comments URL: https://news.ycombinator.com/item?id=41331851
 Points: 302
 # Comments: 436
 Link: https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/
+Title: Telegram CEO Pavel Durov just got arrested in France
+Content Snippet: Article URL: https://www.tf1info.fr/justice-faits-divers/info-tf1-lci-le-fondateur-et-pdg-de-la-messagerie-cryptee-telegram-interpelle-en-france-2316072.html
+Comments URL: https://news.ycombinator.com/item?id=41341353
+Points: 319
+# Comments: 237
+Link: https://www.tf1info.fr/justice-faits-divers/info-tf1-lci-le-fondateur-et-pdg-de-la-messagerie-cryptee-telegram-interpelle-en-france-2316072.html
