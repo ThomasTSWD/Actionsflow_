@@ -1494,3 +1494,9 @@ Comments URL: https://news.ycombinator.com/item?id=41339667
 Points: 301
 # Comments: 286
 Link: https://twitter.com/NASA/status/1827393397939634503
+Title: Hot Page – a graphical site builder
+Content Snippet: Article URL: https://hot.page/
+Comments URL: https://news.ycombinator.com/item?id=41337356
+Points: 308
+# Comments: 81
+Link: https://hot.page/
