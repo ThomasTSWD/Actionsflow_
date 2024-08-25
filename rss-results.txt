@@ -1512,3 +1512,9 @@ Comments URL: https://news.ycombinator.com/item?id=41342017
 Points: 301
 # Comments: 624
 Link: https://news.ycombinator.com/item?id=41342017
+Title: Defenders think in lists, attackers think in graphs (2015)
+Content Snippet: Article URL: https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md
+Comments URL: https://news.ycombinator.com/item?id=41342637
+Points: 303
+# Comments: 138
+Link: https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md
