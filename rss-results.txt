@@ -1500,3 +1500,9 @@ Comments URL: https://news.ycombinator.com/item?id=41337356
 Points: 308
 # Comments: 81
 Link: https://hot.page/
+Title: JavaScript dates are about to be fixed
+Content Snippet: Article URL: https://docs.timetime.in/blog/js-dates-finally-fixed
+Comments URL: https://news.ycombinator.com/item?id=41339493
+Points: 303
+# Comments: 229
+Link: https://docs.timetime.in/blog/js-dates-finally-fixed
