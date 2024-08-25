@@ -1506,3 +1506,9 @@ Comments URL: https://news.ycombinator.com/item?id=41339493
 Points: 303
 # Comments: 229
 Link: https://docs.timetime.in/blog/js-dates-finally-fixed
+Title: Ask HN: What are you working on (August 2024)?
+Content Snippet: What are you working on? Any new ideas that you're thinking about?
+Comments URL: https://news.ycombinator.com/item?id=41342017
+Points: 301
+# Comments: 624
+Link: https://news.ycombinator.com/item?id=41342017
