@@ -1530,3 +1530,9 @@ Comments URL: https://news.ycombinator.com/item?id=41343826
 Points: 300
 # Comments: 137
 Link: https://gregsramblings.com/stupid-but-useful-ai-tricks-creating-calendar-entries-from-an-image-using-anthropic-claude-35
+Title: Study: Air purifier use at daycare centres cut kids' sick days by a third (2023)
+Content Snippet: Article URL: https://yle.fi/a/74-20062381
+Comments URL: https://news.ycombinator.com/item?id=41347868
+Points: 304
+# Comments: 182
+Link: https://yle.fi/a/74-20062381
