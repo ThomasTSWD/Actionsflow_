@@ -1536,3 +1536,9 @@ Comments URL: https://news.ycombinator.com/item?id=41347868
 Points: 304
 # Comments: 182
 Link: https://yle.fi/a/74-20062381
+Title: Is Telegram really an encrypted messaging app?
+Content Snippet: Article URL: https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/
+Comments URL: https://news.ycombinator.com/item?id=41350530
+Points: 308
+# Comments: 277
+Link: https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/
