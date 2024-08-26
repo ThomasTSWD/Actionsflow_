@@ -1542,3 +1542,9 @@ Comments URL: https://news.ycombinator.com/item?id=41350530
 Points: 308
 # Comments: 277
 Link: https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/
+Title: Lidl's Cloud Gambit: Europe's Shift to Sovereign Computing
+Content Snippet: Article URL: https://horovits.medium.com/lidl-is-taking-on-aws-the-age-of-eurocloud-b237258e3311
+Comments URL: https://news.ycombinator.com/item?id=41348659
+Points: 302
+# Comments: 258
+Link: https://horovits.medium.com/lidl-is-taking-on-aws-the-age-of-eurocloud-b237258e3311
