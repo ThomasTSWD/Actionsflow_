@@ -1560,3 +1560,9 @@ Comments URL: https://news.ycombinator.com/item?id=41353328
 Points: 300
 # Comments: 127
 Link: https://www.gkogan.co/removing-stuff/
+Title: Australian employees now have the right to ignore work emails, calls after hours
+Content Snippet: Article URL: https://www.reuters.com/world/asia-pacific/australian-employees-now-have-right-ignore-work-emails-calls-after-hours-2024-08-25/
+Comments URL: https://news.ycombinator.com/item?id=41352681
+Points: 308
+# Comments: 235
+Link: https://www.reuters.com/world/asia-pacific/australian-employees-now-have-right-ignore-work-emails-calls-after-hours-2024-08-25/
