@@ -1554,3 +1554,9 @@ Comments URL: https://news.ycombinator.com/item?id=41351446
 Points: 303
 # Comments: 144
 Link: https://notgull.net/announcing-dozer/
+Title: Removing stuff is never obvious yet often better
+Content Snippet: Article URL: https://www.gkogan.co/removing-stuff/
+Comments URL: https://news.ycombinator.com/item?id=41353328
+Points: 300
+# Comments: 127
+Link: https://www.gkogan.co/removing-stuff/
