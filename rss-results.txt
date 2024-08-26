@@ -1566,3 +1566,9 @@ Comments URL: https://news.ycombinator.com/item?id=41352681
 Points: 308
 # Comments: 235
 Link: https://www.reuters.com/world/asia-pacific/australian-employees-now-have-right-ignore-work-emails-calls-after-hours-2024-08-25/
+Title: Fixing a bug in Google Chrome as a first-time contributor
+Content Snippet: Article URL: https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/
+Comments URL: https://news.ycombinator.com/item?id=41355303
+Points: 310
+# Comments: 72
+Link: https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/
